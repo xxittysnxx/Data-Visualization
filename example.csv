@@ -1,4 +1,4 @@
-id,title,genres,popularity,release_date,budget,revenue,vote_average
+"id","title","genres","popularity","release_date","budget","revenue","vote_average"
 804660,04:57,Fantasy-Horror,0.6,2020/8/3,10,10,10
 107227,23:59,Horror,5.322,2011/11/3,600000,1208479,4.6
 373449,2,Action-Science Fiction-Thriller-Fantasy,8.382,2018/11/29,77000000,114629169,6.1
