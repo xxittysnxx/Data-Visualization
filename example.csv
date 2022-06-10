@@ -1,4 +1,6 @@
 id,title,genres,popularity,release_date,budget,revenue,vote_average
+804660,04:57,Fantasy-Horror,0.6,2020/8/3,10,10,10
+107227,23:59,Horror,5.322,2011/11/3,600000,1208479,4.6
 373449,2,Action-Science Fiction-Thriller-Fantasy,8.382,2018/11/29,77000000,114629169,6.1
 12244,9,Action-Adventure-Animation-Science Fiction-Thriller,47.004,2009/8/19,30000000,48428063,6.9
 20714,12,Crime-Drama-Mystery,7.104,2007/6/6,4000000,7537453,7.3
@@ -16,25 +18,14 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 530915,1917,War-Drama-Action-Thriller,37.917,2019/12/25,100000000,374733942,8
 14161,2012,Action-Adventure-Science Fiction,129.199,2009/10/10,200000000,791217826,5.8
 844,2046,Fantasy-Drama-Science Fiction-Romance,10.815,2004/9/29,12000000,19271312,7.2
-449262,?algД± ?engi Д°kimiz,Comedy,1.683,2017/1/6,3912363,9072414,6
-608441,?ift'lik Bank: Tosun Firarda,Comedy-Drama,0.6,2018/11/16,3,2,0
-8202,?on Flux,Science Fiction-Action-Thriller,12.201,2005/11/30,62000000,53321673,5.6
-648468,?Р°?Рё?,History-Drama-Romance,0.6,2016/11/28,1,1,10
-788134,?Р°Рї?Рµ?РµРЅРЅР°? ?РµР°Р»?РЅРѕ???,Science Fiction-Action,0.6,2009/10/8,7,1,0
-253495,?Рµ?РЅР°? ?Р°?РµРІРЅР°,Adventure-Family-Fantasy,0.709,2005/1/1,94,370000,6
-603748,?РµРЅР°???РЅ?Рµ,Action-Comedy,0.6,2006/8/31,1700000,1320000,0
-220669,?Рѕ?РѕР»?РІ,Drama,1.4,2007/10/29,6000000,31000,1
-586511,?РіРµРЅ? ?Р°РјР±Рѕ,Crime-Comedy,0.641,2019/3/14,26500,94935,3
-576796,?РјРµРЅРёРЅ?,Comedy,0.6,2004/6/7,600000,72500,5
-252178,'71,Thriller-Action-Drama-War,10.514,2014/10/10,11000000,3200000,6.8
-19913,(500) Days of Summer,Comedy-Drama-Romance,59.67,2009/7/17,7500000,60781545,7.3
-9805,(T)Raumschiff Surprise - Periode 1,Comedy-Science Fiction,8.542,2004/7/14,9000000,76341401,6.2
-8329,[REC],Horror-Mystery,61.386,2007/11/23,1500000,32511655,7.2
-185341,[REC]??Apocalypse,Thriller-Horror,40.688,2014/10/31,3000000,4915757,5.6
-10664,[REC]ВІ,Thriller-Horror,42.382,2009/9/15,5600000,18469680,6.6
-80280,[REC]Ві Genesis,Horror,37.85,2012/3/30,6400000,11019975,5.2
-614696,#Alive,Action-Horror-Thriller,65.756,2020/6/24,6300000,13416285,7.3
-804660,04:57,Fantasy-Horror,0.6,2020/8/3,10,10,10
+614696,Alive,Action-Horror-Thriller,65.756,2020/6/24,6300000,13416285,7.3
+19913,500 Days of Summer,Comedy-Drama-Romance,59.67,2009/7/17,7500000,60781545,7.3
+9805,Raumschiff Surprise - Periode 1,Comedy-Science Fiction,8.542,2004/7/14,9000000,76341401,6.2
+335031,Asu Mare! 2,Comedy,8.803,2015/4/9,800,10,6.4
+608441,ift'lik Bank: Tosun Firarda,Comedy-Drama,0.6,2018/11/16,3,2,0
+8202,on Flux,Science Fiction-Action-Thriller,12.201,2005/11/30,62000000,53321673,5.6
+80280,Genesis,Horror,37.85,2012/3/30,6400000,11019975,5.2
+185341,Apocalypse,Thriller-Horror,40.688,2014/10/31,3000000,4915757,5.6
 178657,07th Changes Course,Action-Adventure,0.6,2007/4/12,1300000,95000,3.2
 333371,10 Cloverfield Lane,Thriller-Science Fiction-Drama-Horror,28.713,2016/3/10,15000000,108286421,7
 4951,10 Things I Hate About You,Comedy-Romance-Drama,32.76,1999/3/30,16000000,53478166,7.6
@@ -64,7 +55,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 630220,18 Presents,Drama-Fantasy,11.345,2020/1/2,2500000,3486375,7.5
 467806,180 Seconds,Drama,0.6,2017/2/17,1,1,10
 428741,1971: Beyond Borders,Drama-War,1.178,2017/4/7,2400000,1100000,5.2
-500451,1976: O Ano da InvasГЈo Corinthiana,Documentary,0.6,2016/9/29,30000,200000,10
+500451,1976: O Ano da Invas??o Corinthiana,Documentary,0.6,2016/9/29,30000,200000,10
 437103,1987: When the Day Comes,Drama-History-Thriller,15.349,2017/12/27,12308000,49380115,8
 84165,2 Days in New York,Comedy-Drama-Romance,7.369,2012/3/28,8000000,1653792,5.7
 584,2 Fast 2 Furious,Action-Crime-Thriller,14.807,2003/6/5,76000000,236350661,6.4
@@ -85,7 +76,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 64688,21 Jump Street,Action-Comedy-Crime,48.805,2012/3/14,42000000,201585328,6.9
 129088,22 Female Kottayam,Crime-Drama-Romance-Thriller,2.871,2012/4/13,400000,500000,7.5
 187017,22 Jump Street,Crime-Comedy-Action,54.35,2014/6/5,50000000,188441614,6.8
-107227,23:59,Horror,5.322,2011/11/3,600000,1208479,4.6
 1429,25th Hour,Crime-Drama,15.617,2002/12/19,5000000,24000000,7.4
 6557,27 Dresses,Comedy-Romance,13.998,2008/1/10,30000000,160259319,6.4
 10468,28 Days,Comedy-Drama,11.773,2000/4/6,43000000,6219894,6.1
@@ -123,20 +113,20 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 885360,54 Miles,Drama,0.6,2002/7/28,2000,2001,0
 659153,5Gang: A Different Kind of Christmas,Action-Comedy,4.505,2019/12/27,1500000,1489573,8.2
 41505,6 Souls,Horror-Mystery-Thriller,10.657,2010/3/27,22000000,851517,6
-164300,7 aГ±os de matrimonio,Comedy-Romance,1.607,2013/1/25,1500000,193081,4.9
+164300,7 a?簣os de matrimonio,Comedy-Romance,1.607,2013/1/25,1500000,193081,4.9
 56338,7 Khoon Maaf,Drama-Mystery-Thriller,5.211,2011/2/18,2200000,2900000,6.3
 471275,7 Months Pregnant,Drama,0.785,2016/8/17,80000,80000,8
 89733,7 Sea Pirates,Animation,1.208,2012/2/2,1250000,582094,7
+252178,'71,Thriller-Action-Drama-War,10.514,2014/10/10,11000000,3200000,6.8
 51200,71: Into the Fire,War,8.306,2010/6/16,10400000,20967660,7.4
 86718,7Aum Arivu,Action-Science Fiction-Thriller,5.472,2011/10/26,16000000,98900000,6.8
 13982,8 Heads in a Duffel Bag,Comedy-Crime,8.916,1997/4/18,3000000,3602884,4.9
 65,8 Mile,Music-Drama,39.08,2002/11/8,41000000,242875078,7.1
 348750,8 Seconds,Drama,0.672,2015/2/27,5556000,1759935,6.9
-37748,800 Bullets,Comedy-Action-Western,6.884,2002/10/18,4380750,1947000,63
 3489,88 Minutes,Crime-Mystery-Thriller,14.789,2007/2/14,30000000,32593385,5.7
 8224,8MM,Thriller-Crime-Mystery,16.429,1999/2/26,40000000,96618699,6.4
+795100,9 ?? Minutes,Animation,0.6,1993/1/1,198213,198213,0
 27,9 Songs,Drama-Music-Romance,26.524,2004/5/16,1000000,1574623,5.6
-795100,9 ВЅ Minutes,Animation,0.6,1993/1/1,198213,198213,0
 343795,90 Minutes in Heaven,Drama,32.245,2015/9/11,5000000,4842699,6.1
 8827,99 francs,Drama-Comedy,9.531,2007/9/26,13442285,12500000,6.6
 283235,99 Homes,Drama,10.241,2015/9/25,8000000,1411927,6.7
@@ -152,7 +142,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 790034,A Brave New World,Science Fiction-Horror,0.6,2012/4/5,1600000,636990,0
 1607,A Bronx Tale,Drama-Crime,26.699,1993/9/14,10000000,17287898,7.8
 9487,A Bug's Life,Adventure-Animation-Comedy-Family,95.997,1998/11/25,120000000,363258859,7
-267385,A Catedral: Uma histГіria de amor a GrajaГє,Documentary,0.6,2012/12/22,1000,2000,0
+267385,A Catedral: Uma hist??ria de amor a Graja??,Documentary,0.6,2012/12/22,1000,2000,0
 17979,A Christmas Carol,Animation-Family-Drama-Fantasy,31.315,2009/11/4,200000000,325286646,6.9
 11247,A Cinderella Story,Comedy-Family-Romance,36.009,2004/7/10,19000000,70067909,6.5
 9422,A Civil Action,Drama,11.47,1998/12/25,70000000,56702901,6.4
@@ -259,9 +249,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 51917,A Whole Life Ahead,Comedy-Drama,5.543,2008/3/28,6150000,5788176,6.6
 407451,A Wrinkle in Time,Adventure-Science Fiction-Family-Fantasy,16.915,2018/3/8,103000000,132675864,5.1
 847440,A YouTube Stone,Documentary,0.6,2021/5/19,25,120,10
-4435,A?oka,Romance-Music-War-Action,8.616,2001/9/13,17000000,19000000,6.4
 644,A.I. Artificial Intelligence,Drama-Science Fiction-Adventure,23.091,2001/6/29,100000000,235926552,7
 24426,A.R.O.G,Science Fiction-Fantasy-Comedy,7.151,2008/12/5,8500000,9582732,6.8
+4435,A?oka,Romance-Music-War-Action,8.616,2001/9/13,17000000,19000000,6.4
+735850,A?禮a?簫,Comedy-Adventure,0.6,2020/2/7,1410384,1410384,6
 682660,AA-,Horror,0.6,2019/3/29,2000,50,3.5
 499735,Aadhi Raat,Horror,0.805,1999/10/22,15660,5873,0
 68016,Aadukalam,Action-Drama-Thriller,3.196,2011/1/14,4000000,6000000,7.4
@@ -313,7 +304,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 126938,Acts of Death,Horror,2.135,2007/6/30,6,7,3.5
 445954,Acts of Vengeance,Thriller-Action-Drama,18.493,2017/10/27,10000000,320705,5.9
 419704,Ad Astra,Science Fiction-Drama,13.17,2019/9/17,87500000,132807427,6.1
-608436,Adam MД±sД±n!,Comedy,0.658,2016/11/18,500,20,1.5
+608436,Adam M?簣s?簣n!,Comedy,0.658,2016/11/18,500,20,1.5
 2757,Adaptation.,Comedy-Crime-Drama,12.708,2002/12/6,19000000,32801173,7.4
 2758,Addams Family Values,Comedy-Family-Fantasy,42.75,1993/11/19,47000000,48919043,6.9
 79931,Adele: Live at the Royal Albert Hall,Music-Documentary,7.996,2011/11/27,1000000,10000000,7.9
@@ -382,9 +373,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 241259,Alice Through the Looking Glass,Adventure-Family-Fantasy,52.875,2016/5/25,170000000,299457024,6.5
 8078,Alien Resurrection,Science Fiction-Horror-Action,30.493,1997/11/12,70000000,162000000,6.1
 126889,Alien: Covenant,Horror-Science Fiction-Mystery,85.837,2017/5/9,97000000,240891763,6
+8077,Alien??,Science Fiction-Action-Horror,30.702,1992/5/22,50000000,159773545,6.3
 20856,Aliens in the Attic,Adventure-Comedy-Family-Fantasy-Science Fiction,14.563,2009/7/31,45000000,57881056,5.6
 440,Aliens vs Predator: Requiem,Fantasy-Action-Science Fiction-Thriller-Horror,52.41,2007/12/25,40000000,130290885,5.1
-8077,AlienВі,Science Fiction-Action-Horror,30.702,1992/5/22,50000000,159773545,6.3
 498402,Aline,Music-Comedy-Drama,8.933,2020/11/19,25900000,11131254,7
 399579,Alita: Battle Angel,Action-Science Fiction-Adventure,67.105,2019/1/31,170000000,404852543,7.2
 7305,Alive,Adventure-Drama-Thriller,14.976,1993/1/15,32000000,36733909,6.9
@@ -424,12 +415,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 258509,Alvin and the Chipmunks: The Road Chip,Adventure-Animation-Comedy-Family,33.836,2015/12/17,90000000,233755553,6
 23398,Alvin and the Chipmunks: The Squeakquel,Comedy-Family-Animation-Fantasy-Music,44.504,2009/12/21,75000000,443140005,5.6
 430012,Alzen Motorsport 2005,Documentary,0.6,2005/9/6,100,100,0
+31294,Am??lia,Drama-Music,1.792,2008/12/4,3500000,1209841,6.4
+194,Am?穢lie,Comedy-Romance,23.965,2001/4/25,10000000,173921954,7.9
 496681,Amazon Obhijaan,Adventure-Action-Thriller,0.817,2017/12/22,3082000,7082000,5.7
 763285,Ambulance,Action-Thriller-Crime,3117.704,2022/3/16,40000000,50254920,7
 8915,Amelia,Adventure-Drama,7.838,2009/10/22,40000000,19643086,5.7
 180048,Amen,Fantasy-Music-Romance,1.889,2013/3/21,110000,270000,7.7
 276918,America: Imagine the World Without Her,Documentary,5.549,2014/7/2,5000000,14444502,4.2
-11467,America's Sweethearts,Comedy-Romance,11.72,2001/7/17,64400000,138191428,5.7
 50819,American Adobo,Comedy-Romance,1.875,2001/9/29,344,4,4.4
 489931,American Animals,Drama-Crime-Documentary,10.509,2018/6/1,3000000,2847319,6.8
 415842,American Assassin,Action-Thriller,20.02,2017/9/14,33000000,67200000,6.3
@@ -452,14 +444,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 2771,American Splendor,Comedy-Drama,9.85,2003/8/15,2000000,6003587,7.2
 261392,American Ultra,Comedy-Action,22.113,2015/8/19,28000000,27139524,6.1
 8273,American Wedding,Comedy-Romance,46.17,2003/8/1,55000000,231449203,6.2
+11467,America's Sweethearts,Comedy-Romance,11.72,2001/7/17,64400000,138191428,5.7
 556179,Ami Je Ke Tomar,Romance-Drama,0.6,2017/5/19,4,2,3
 11831,Amistad,Drama-History-Mystery,2.941,1997/12/10,36000000,44229441,7
 622578,Amod Faqrey,Comedy-Family,0.6,2016/10/26,450000,900000,7
 55,Amores Perros,Drama-Thriller,29.16,2000/6/16,2000000,20908467,7.6
 86837,Amour,Drama-Romance,9.83,2012/9/20,8900000,29844753,7.8
 13803,Amusement,Horror-Thriller-Mystery,14.003,2008/10/9,6000000,170255,5.6
-194,AmГ©lie,Comedy-Romance,23.965,2001/4/25,10000000,173921954,7.9
-31294,AmГЎlia,Drama-Music,1.792,2008/12/4,3500000,1209841,6.4
 78149,"An Alan Smithee Film: Burn, Hollywood, Burn",Comedy,3.247,1998/2/20,10000000,45779,4.1
 13948,An American Carol,Comedy-Fantasy,6.954,2008/10/3,20000000,7000000,4.3
 10008,An American Haunting,Horror-Thriller,9.022,2005/5/5,14000000,29612137,5.6
@@ -523,16 +514,16 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 9409,Another Stakeout,Comedy-Crime-Action,8.83,1993/7/22,30000000,30000000,5.5
 116231,Another Woman's Life,Comedy-Drama-Romance,5.07,2012/2/14,6500000,3216359,6.2
 44009,Another Year,Drama,10.547,2010/11/5,8000000,18124262,7
-102899,Ant-Man,Science Fiction-Action-Adventure,80.966,2015/7/14,130000000,519311965,7.1
-363088,Ant-Man and the Wasp,Action-Adventure-Science Fiction,74.102,2018/7/4,140000000,622674139,7
 627290,Antebellum,Horror,39.826,2020/9/2,15000000,7060384,6.3
-654223,Antep FД±stД±?Д±,Comedy,0.6,2018/2/16,2,10,0
+654223,Antep F?簣st?簣??簣,Comedy,0.6,2018/2/16,2,10,0
 300580,Anthony Daniels,Documentary,0.6,2014/11/2,50,25,0
 483981,Anthony Joshua vs. Carlos Takam,Action,1.246,2017/10/28,5000000,34134173,8
 8332,Antibodies,Thriller-Crime-Drama-Horror,6.15,2005/4/24,1900000,891133,6.8
 17609,Antichrist,Drama-Horror-Thriller,18.241,2009/5/20,11000000,791867,6.7
 268413,Antidote,Crime-Action-Drama,2.387,2014/5/8,500000,446619,5.7
 9989,Antitrust,Action-Crime-Drama,13.768,2001/1/11,30000000,18195610,6
+102899,Ant-Man,Science Fiction-Action-Adventure,80.966,2015/7/14,130000000,519311965,7.1
+363088,Ant-Man and the Wasp,Action-Adventure-Science Fiction,74.102,2018/7/4,140000000,622674139,7
 13435,Antwone Fisher,Drama-Romance,8.611,2002/12/19,12500000,23367586,6.8
 8916,Antz,Adventure-Animation-Comedy-Family,30.822,1998/10/2,60000000,171757863,6.1
 944301,Anxiety's Calling,Drama,0.63,2022/2/25,1,1,10
@@ -548,11 +539,11 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 11633,Appleseed,Animation-Action-Science Fiction,8.163,2004/4/17,10000000,1461989,6.7
 672681,April 15th,Drama-Romance-Mystery,0.6,2019/4/15,1500,7500,10
 9445,Apt Pupil,Drama-Thriller,9.718,1998/10/23,14000000,8863193,6.6
+934972,"Aqu?簫 Sigo, Aqu?簫 Seguir?穢",Documentary-Drama,0.6,2022/2/4,10,10,10
 708335,Aqua Teen Hunger Force Eighty Minutes of a Whole Nother Movie,Comedy,0.6,2007/8/14,750000,6500000,6
 297802,Aquaman,Action-Adventure-Fantasy,93.667,2018/7/6,160000000,1148528393,6.9
 14191,Aquamarine,Fantasy-Romance-Family-Comedy,30.609,2006/3/3,12000000,23006849,6.3
 377273,Aquarius,Drama,9.299,2016/9/1,762241,285930,7.5
-934972,"AquГ­ Sigo, AquГ­ SeguirГ©",Documentary-Drama,0.6,2022/2/4,10,10,10
 453755,Arctic,Drama,10.332,2018/11/21,2000000,4100000,6.4
 603552,Ardaas Karaan,Drama,1.852,2019/7/19,1066375,4165528,6
 601683,Ardin and Barray: A Found Footage Story,Horror-Comedy,0.6,2018/5/12,15,30,10
@@ -583,19 +574,19 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 519011,Aschhe Abar Shabor,Action-Crime-Drama-Thriller,0.971,2018/1/19,296770,1632236,4.8
 581387,Ashfall,Action-Adventure-Thriller,103.393,2019/12/19,17700000,61321941,6.6
 786224,Aslam's Friend,Drama,0.6,2019/8/14,68,68,0
-121856,Assassin's Creed,Action-Adventure-Science Fiction,38.07,2016/12/21,125000000,240697856,5.4
 446101,Assassination Nation,Thriller-Horror-Comedy,12.887,2018/9/21,7000000,2900000,6.3
 18176,Assassination of a High School President,Comedy-Crime,8.563,2008/1/17,11500000,69564,5.8
 9691,Assassins,Action-Adventure-Crime-Thriller,14.882,1995/10/6,50000000,30303072,6.4
+121856,Assassin's Creed,Action-Adventure-Science Fiction,38.07,2016/12/21,125000000,240697856,5.4
 8978,Assault on Precinct 13,Action-Crime-Thriller-Drama,15.589,2005/1/19,30000000,35294470,6.1
 14044,Assembly,Action-History,8.422,2007/10/9,16000000,34786960,6.8
 193704,Assisted Living,Comedy-Drama,0.727,2005/2/2,500,41,7.5
 918764,Associates,Action-Mystery,0.6,2021/11/13,150,500,7
 653249,Assumed,Science Fiction-Action-Crime-Drama-Mystery-Thriller,0.6,2019/8/24,1,1,0
+2395,Ast?穢rix at the Olympic Games,Fantasy-Adventure-Comedy-Family,17.372,2008/1/30,97250400,132900000,5.2
 2899,Asterix & Obelix: Mission Cleopatra,Family-Fantasy-Comedy-Adventure,20.175,2002/1/30,58500000,111127553,7.4
 170522,Asterix: The Mansions of the Gods,Animation-Comedy-Adventure-Family,18.864,2014/11/26,30000000,42830578,6.8
 16577,Astro Boy,Animation-Action-Family-Science Fiction,41.457,2009/10/15,10000000,19551067,6.3
-2395,AstГ©rix at the Olympic Games,Fantasy-Adventure-Comedy-Family,17.372,2008/1/30,97250400,132900000,5.2
 51515,At Play in the Fields of the Lord,Drama-Romance,3.555,1991/12/6,36000000,1345903,6.4
 876254,At the Mountains of Madness,Horror,0.6,2021/7/27,2000,12000,10
 13245,Atanarjuat: The Fast Runner,Fantasy-Drama,4.106,2002/2/1,1934000,3786801,7
@@ -639,7 +630,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 462522,Ayaal Sassi,Comedy,0.6,2017/7/7,150000,20000,6
 20049,Ayan,Action-Romance-Comedy,5.464,2009/4/3,3230939,18000000,6.8
 503115,Azar,Drama,0.762,2017/2/1,10000,10000,4.2
-735850,AГ§aГ­,Comedy-Adventure,0.6,2020/2/7,1410384,1410384,6
 350312,B?hubali 2: The Conclusion,Action-Adventure-Fantasy,39.89,2017/4/27,31000000,275947313,7.3
 256040,B?hubali: The Beginning,Action-Drama,52.782,2015/7/10,25130430,90747520,7.5
 41902,Baadshah,Action-Comedy,6.632,1999/8/27,9000000,1400000,6.5
@@ -657,8 +647,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 339403,Baby Driver,Action-Crime,80.193,2017/6/28,34000000,226945087,7.5
 22345,Baby Geniuses,Science Fiction-Comedy-Family,10.656,1999/3/12,12000000,36450736,4.2
 8780,Baby Mama,Comedy,11.158,2008/4/25,30000000,63833449,5.9
-11212,Baby's Day Out,Family-Comedy-Adventure-Crime,28.405,1994/7/1,50000000,16671505,6.2
 9381,Babylon A.D.,Action-Adventure-Science Fiction-Thriller,14.643,2008/8/20,70000000,72108608,5.6
+11212,Baby's Day Out,Family-Comedy-Adventure-Crime,28.405,1994/7/1,50000000,16671505,6.2
 262551,Babysitting,Comedy,12.987,2014/4/16,3400000,20258904,6.8
 331836,Babysitting 2,Comedy,10.05,2015/12/2,9458736,24563629,6.3
 129439,Bachelor Party,Action-Comedy-Crime,1.294,2012/7/15,1950000,2000000,5.7
@@ -819,11 +809,11 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 58699,Bellflower,Action-Drama-Romance,5.694,2011/4/16,17000,101236,6
 12590,Below,Thriller-Horror-Mystery,7.96,2002/8/11,40000000,2622015,6.1
 6936,Ben X,Drama,6.872,2007/8/26,1500000,27,6.9
-271969,Ben-Hur,Action-History-Adventure-Drama,33.433,2016/8/17,100000000,94061311,5.7
 455,Bend It Like Beckham,Comedy-Drama-Romance,13.644,2002/4/11,3500159,76578641,6.3
 78461,Beneath the Darkness,Thriller-Horror,6.886,2012/1/6,7300000,23998,4.8
 454527,Benedetta,Drama-History-Romance,33.016,2021/7/9,24350000,2652725,6.8
 363152,Bengal Tiger,Romance-Action-Comedy,1.613,2015/12/10,2800000,5600000,4.4
+271969,Ben-Hur,Action-History-Adventure-Drama,33.433,2016/8/17,100000000,94061311,5.7
 48415,Benvenuti al Sud,Comedy,6.006,2010/10/1,4000000,65584679,6.7
 5470,Beowulf,Adventure-Fantasy,12.46,1999/4/1,20000000,1531251,4.3
 75438,Beremennyy,Comedy,1.237,2011/9/8,2000000,8000000,2.6
@@ -884,7 +874,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 410845,Billy Yeager The Ineffable Enigma,Documentary-Music,0.628,2016/7/30,165000,2350000,10
 528419,Bindaas,Action-Comedy-Drama-Romance,1.095,2014/7/25,414000,910000,0
 16790,Bingo,Action-Adventure-Comedy-Family,23.538,1991/8/9,10000000,8667684,5
-752363,Binsu: HД«r?taimu,Action-Adventure-Comedy,0.6,2020/10/10,50000000,125543200,0.6
+752363,Binsu: H?竄r?taimu,Action-Adventure-Comedy,0.6,2020/10/10,50000000,125543200,0.6
 9536,Bio-Dome,Comedy,8.839,1996/1/12,8500000,13400000,4.5
 1727,Bird on a Wire,Action-Adventure-Comedy-Romance,10.7,1990/5/18,20000000,138700000,6.2
 194662,Birdman or (The Unexpected Virtue of Ignorance),Drama-Comedy,28.695,2014/10/17,18000000,103215094,7.5
@@ -1035,6 +1025,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 650,Boyz n the Hood,Drama-Crime,44.448,1991/7/12,6500000,57504069,7.6
 705178,Boyzhetken: She's ALL That,Comedy-Romance,0.6,2018/1/1,266937,248835,0
 451945,BPM (Beats per Minute),Drama,9.102,2017/8/23,6600000,7632420,7.8
+18480,Br??no,Comedy,11.082,2009/7/8,42000000,138805831,5.6
 371363,Brahmotsavam,Family-Romance,1.676,2016/5/20,11000000,10000000,4.3
 555974,Brahms: The Boy II,Horror-Mystery-Thriller,23.029,2020/2/20,10000000,20311536,6
 763,Braindead,Horror-Comedy,13.154,1992/8/13,3000000,242623,7.4
@@ -1084,7 +1075,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 748806,Brothers,Drama,0.623,2020/8/24,1,1,0
 37964,Brown Sugar,Comedy-Romance,8.797,2002/10/5,8000000,27362712,6.7
 310,Bruce Almighty,Fantasy-Comedy,40.33,2003/5/23,80000000,484592874,6.7
-18480,BrГјno,Comedy,11.082,2009/7/8,42000000,138805831,5.6
 274175,Buddha Wild: Monk in a Hut,Adventure-Comedy-Documentary-Family,1.793,2008/4/16,25000,275000,10
 15170,Buddy,Adventure-Comedy-Family,9.005,1997/6/6,25000000,10113400,4.8
 9464,Buffalo '66,Drama-Romance-Comedy,12.136,1998/1/20,1500000,2375097,7.1
@@ -1120,13 +1110,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 400267,Byomkesh Bakshi,Thriller-Action-Crime,1.317,2015/10/16,110000,190000,7.7
 102780,Byzantium,Drama-Fantasy-Thriller,10.775,2012/9/9,10000000,89237,6.3
 301616,C.B. Green - Absolutely Live,Music,0.6,2003/6/30,101,100,4
-432068,C'est la vie!,Comedy,8.009,2017/10/4,17200000,23800000,6.9
+658140,C??mo Regar Un Girasol,Fantasy,0.616,2019/10/31,50,150,0
 27004,Ca$h,Crime-Thriller-Comedy-Mystery,9.434,2010/1/1,7000000,46488,5.9
 11547,Cabin Fever,Horror,22.914,2003/8/15,1500000,30553395,5.7
-445,CachГ©,Mystery-Drama-Thriller,9.221,2005/10/5,8731048,36000000,7.1
+445,Cach?穢,Mystery-Drama-Thriller,9.221,2005/10/5,8731048,36000000,7.1
 14299,Cadillac Records,Drama-History-Music,12.408,2008/12/5,12000000,8880045,7.2
+339397,Caf?穢 Society,Comedy-Drama-Romance,10.743,2016/5/11,30000000,43763247,6.5
 407882,"Cafe Au Lait - with lotsa sugar, baby!",Romance-Comedy,0.6,2006/1/1,1000000,100000,0
-339397,CafГ© Society,Comedy-Drama-Romance,10.743,2016/5/11,30000000,43763247,6.5
 799595,Cages,Drama,0.6,2021/2/19,5,2,0
 512096,Cake,Drama-Romance-Mystery-Comedy,0.957,2018/3/30,350000,850000,6.7
 117553,Calendar Girl,Comedy-Drama,3.949,1993/9/3,13000000,2570145,5
@@ -1138,16 +1128,16 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 467988,Camp Cool Kids,Family,30.142,2017/7/11,1000000,5199,5.7
 244506,Camp X-Ray,Drama,33.154,2014/10/17,1000000,59744,6.7
 291529,Can You Imagine,Comedy,1.167,2010/9/1,10,60,0
-15037,Can't Hardly Wait,Comedy-Romance,10.503,1998/6/12,10000000,25605015,6.3
 1775,Canadian Bacon,Comedy,7.699,1995/6/8,11000000,178104,5.8
 268898,Candidate,Comedy,2.168,2013/10/10,250000,540000,6.7
 251422,Candy Thieves,Action,0.6,2012/9/8,100,100,0
 565028,Candyman,Horror,69.774,2021/8/25,25000000,77389310,6.2
 755285,Canners,Comedy-Drama-Fantasy,0.6,2020/5/1,2000,100,6
+15037,Can't Hardly Wait,Comedy-Romance,10.503,1998/6/12,10000000,25605015,6.3
 1598,Cape Fear,Thriller-Crime,19.518,1991/11/15,35000000,182300000,7.2
 517814,Capernaum,Drama,15.45,2018/9/20,4000000,64978931,8.2
+927197,Capit??n Am?穢rica: Una Loca Guerra Civil,Action-Adventure-Science Fiction-Comedy,16.297,2019/10/11,100,10000,3
 22074,Capitalism: A Love Story,Documentary,12.514,2009/9/6,20000000,17436509,7.2
-927197,CapitГЎn AmГ©rica: Una Loca Guerra Civil,Action-Adventure-Science Fiction-Comedy,16.297,2019/10/11,100,10000,3
 429422,Capone,Crime-Drama,17.332,2020/6/26,20600000,858281,5
 398,Capote,Crime-Drama,12.389,2005/9/30,7000000,49327405,7
 459952,Captain,Drama,0.699,2018/2/16,2340000,577500,7
@@ -1169,7 +1159,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 289177,Care Bears: Season of Caring,Adventure-Animation-Family-Fantasy,2.297,2004/7/12,50000,900000,6
 721807,Care of Footpath,Drama-Family,0.6,2006/11/24,290000,970000,0
 16270,Career Opportunities,Romance-Comedy,29.807,1991/3/29,6000000,11336986,6.8
-967035,Caricias: La pelГ­cula,Comedy-Drama-Documentary-Horror,1.366,2022/4/22,2000,3000,10
+967035,Caricias: La pel?簫cula,Comedy-Drama-Documentary-Horror,1.366,2022/4/22,2000,3000,10
 6075,Carlito's Way,Crime-Thriller-Drama,16.313,1993/11/10,30000000,63848322,7.8
 43434,Carlos,Crime-Drama-Thriller-History,6.99,2010/7/7,18000000,871279,7
 150126,Carmen G,Thriller-Drama,1.165,2012/12/7,93,87,7
@@ -1203,7 +1193,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 314,Catwoman,Action-Fantasy-Mystery-Crime,23.161,2004/7/22,100000000,82102379,4.6
 15278,CB4,Music-Comedy,8.026,1993/3/12,6000000,17953778,6.2
 111479,CBGB,Drama-Music,11.421,2013/10/11,5000000,40400,6.4
-462907,Cebiche de TiburГіn,Adventure-Comedy,3.851,2017/2/2,15454,45150,2.3
+462907,Cebiche de Tibur??n,Adventure-Comedy,3.851,2017/2/2,15454,45150,2.3
 33273,Cell 211,Action-Thriller-Drama,72.636,2009/11/6,5700000,19300483,7.5
 445791,Celldweller: Start of an Empire (The Making of,Documentary-Music-Science Fiction,0.6,2016/11/21,5000,50000,10
 9759,Cellular,Action-Thriller,17.75,2004/9/6,25000000,56422687,6.4
@@ -1213,6 +1203,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 23759,Centurion,Adventure-Action-Drama,17.688,2010/2/15,12000000,6890432,6.2
 340487,Certain Women,Drama,13.287,2016/9/25,2000000,1215691,5.9
 48303,Certified Copy,Drama-Romance,7.185,2010/5/18,7000000,7736632,7
+432068,C'est la vie!,Comedy,8.009,2017/10/4,17200000,23800000,6.9
+22215,Ch?穢ri,Drama-Comedy-Romance,7.121,2009/4/8,23000000,9368242,6.1
 102353,Chaahat,Drama-Romance,2.225,1996/6/6,3000000,7100000,7
 671911,Chaal Gazab Hai,Music,0.6,2019/5/27,10000,15000,0
 38033,Chain Letter,Horror-Thriller,10.18,2010/10/1,5000000,143000,4.4
@@ -1267,15 +1259,15 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 78206,Chicken with Plums,Comedy-Drama,7.948,2011/10/26,12000000,3265941,7.1
 181283,Child 44,Crime-Thriller,33.561,2015/3/15,50000000,3324330,6.3
 833753,Child of Nature,Documentary,3.021,2021/5/1,1000000,1000000,10
-533642,Child's Play,Horror,38.57,2019/6/19,10000000,44902237,6
-11186,Child's Play 2,Horror-Thriller,46.668,1990/11/9,13000000,35763605,6.2
-11187,Child's Play 3,Horror-Thriller,46.961,1991/8/30,13000000,20560255,5.9
 774056,Childhood's End,Drama,0.6,2020/12/8,1,2,0
 479750,Children of Genghis,Adventure-Family,0.6,2017/1/1,1200000,806000,5
 21334,Children of Heaven,Drama-Family,28.408,1997/8/1,180000,925402,7.9
 9693,Children of Men,Drama-Action-Thriller-Science Fiction,19.014,2006/9/22,76000000,70595464,7.6
 701121,Children of the Corn,Horror-Thriller,2.383,2020/10/17,800000,14568989,7
 25748,Children of the Corn II: The Final Sacrifice,Horror,19.623,1992/1/29,900000,6980986,4.7
+533642,Child's Play,Horror,38.57,2019/6/19,10000000,44902237,6
+11186,Child's Play 2,Horror-Thriller,46.668,1990/11/9,13000000,35763605,6.2
+11187,Child's Play 3,Horror-Thriller,46.961,1991/8/30,13000000,20560255,5.9
 2162,Chill Factor,Action-Comedy-Thriller,7.679,1999/9/1,34000000,11263966,4.8
 72334,Chimpanzee,Documentary,8.876,2012/4/20,5000000,34823764,7.1
 26337,China Moon,Mystery-Thriller,8.123,1994/3/4,15000000,3038499,6
@@ -1285,7 +1277,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 417644,CHiPS,Action-Comedy-Crime,18.703,2017/1/16,25000000,26800152,6.1
 327665,Chirodini Tumi Je Amar,Romance-Drama,1.176,2008/8/15,138000,236000,6.3
 28211,Chloe,Drama-Thriller-Mystery,14.98,2009/3/25,14000000,13657649,6
-451436,Cho Em Gбє§n Anh ThГЄm ChГєt Nб»Їa,Comedy-Romance,0.6,2016/12/2,600000,500000,6.5
+451436,Cho Em G訇?禮n Anh Th??m Ch??t N訇罈?a,Comedy-Romance,0.6,2016/12/2,600000,500000,6.5
 392,Chocolat,Comedy-Drama-Romance,16.436,2000/3/2,25000000,152500343,6.9
 13973,Choke,Comedy-Drama,10.088,2008/9/26,3000000,3982459,6.2
 408510,Choorian,Action-Romance-Crime,0.6,1998/10/16,37000,2000000,10
@@ -1297,14 +1289,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 499727,Chudail No. 1,Horror,0.6,1999/7/16,31320,26622,0
 55278,Church Ball,Comedy,1.453,2006/3/17,1000000,464991,3.8
 930669,Chuva de cores,Drama,0.6,2014/8/8,100,100,0
-22215,ChГ©ri,Drama-Comedy-Romance,7.121,2009/4/8,23000000,9368242,6.1
 439601,CIA: Comrade In America,Action-Adventure-Romance,3.492,2017/5/5,1400000,3900000,6
 930667,Cidademove,Drama,0.6,2015/4/28,100,100,0
 820782,Cigarbox Blues,Music-Drama,0.658,2017/1/26,5000,6000,8.5
-630331,Cin-Si Bozuk,Comedy-Horror-Action,0.6,2019/9/6,46,5,0
 150689,Cinderella,Romance-Fantasy-Family-Drama,70.055,2015/3/12,95000000,543514353,6.8
 921,Cinderella Man,Romance-Drama-History,17.402,2005/6/2,88000000,108539911,7.5
 468517,Cine de Emboscada,Documentary,0.6,2017/6/26,200,200,10
+630331,Cin-Si Bozuk,Comedy-Horror-Action,0.6,2019/9/6,46,5,0
 919178,Circle,Adventure-Drama-Mystery,0.6,2021/12/25,20,3,10
 24418,Cirque du Freak: The Vampire's Assistant,Adventure-Fantasy-Action-Thriller,124.108,2009/10/23,40000000,28169671,5.7
 13891,Citizen Ruth,Drama-Comedy,4.968,1996/11/21,3000000,285112,6.6
@@ -1410,7 +1401,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 1496,Cool as Ice,Comedy-Music-Romance,7.429,1991/10/18,6000000,1193062,5
 864,Cool Runnings,Comedy-History,18.309,1993/10/1,14000000,154856263,7
 14239,Cool World,Animation-Comedy-Fantasy,15.887,1992/7/10,30000000,14110589,5.5
-12574,Cop and ВЅ,Action-Comedy-Family,7.886,1993/4/2,4000000,40700000,4.6
+12574,Cop and ??,Action-Comedy-Family,7.886,1993/4/2,4000000,40700000,4.6
 2142,Cop Land,Action-Crime-Drama,11.533,1997/8/15,15000000,44862187,6.8
 23742,Cop Out,Action-Comedy-Crime,12.527,2010/2/26,30000000,55583804,5.6
 492402,Cops and Robbers,Action-Crime,3.553,2017/12/12,5500000,5500000,5.3
@@ -1485,12 +1476,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 465102,Cycle,Drama,0.624,2011/11/18,60,150,10
 10133,Cypher,Thriller-Science Fiction,8.517,2002/10/1,7500000,898365,6.7
 730047,Cyrano,Drama-Romance,19.525,2022/1/6,20000000,3000000,6.3
-658140,CГіmo Regar Un Girasol,Fantasy,0.616,2019/10/31,50,150,0
-206851,D-Day,Action-Thriller,2.306,2013/7/19,3900000,5600000,6.6
-10375,D-Tox,Thriller,12.54,2002/1/4,55000000,6632383,5.6
-266455,D'Unbelievables D'Mother,Comedy,0.6,2001/2/11,20000,50000,8.7
-266451,D'Unbelievables D'Telly,Action-Adventure-Comedy-Drama-Music,1.555,1998/1/1,20000,50000,9.7
-429771,D'Unbelievables One Hell of a Do,Adventure-Comedy-Drama-Family-Music-TV Movie,1.501,2011/2/11,20000,50000,9.5
+7551,D?穢j? Vu,Action-Thriller-Science Fiction,19.434,2006/11/22,75000000,180557550,6.8
+229045,D?繞dsklockan,Drama-Thriller,0.931,1999/9/25,50,60,5.7
 133666,D@bbe 2,Horror-Mystery,2.065,2009/12/24,600,3,1.9
 787459,"Dad, I'm Sorry",Comedy-Family-Drama,1.629,2021/3/12,128,17130489,7.3
 33557,Daddy and Them,Drama-Comedy,2.658,2001/10/26,4000000,6718,5.8
@@ -1553,6 +1540,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 2016,Days of Glory,Drama-History-War,8.965,2006/9/27,14500000,22963701,6.7
 2119,Days of Thunder,Adventure-Action-Romance-Drama,15.475,1990/6/27,60000000,157920733,6.3
 9571,Dazed and Confused,Comedy-Drama,11.995,1993/9/24,6900000,7993039,7.4
+206851,D-Day,Action-Thriller,2.306,2013/7/19,3900000,5600000,6.6
 25867,De Dana Dan,Action-Comedy-Crime,3.69,2009/11/27,8000000,9000000,5.5
 914440,De Mingorrubio al Congreso,Documentary,0.6,2021/11/20,10,5,10
 915195,DEAD GIRL,Horror-Comedy,0.6,2021/12/10,2,10,10
@@ -1590,7 +1578,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 13018,Deception,Thriller-Mystery,11.526,2008/4/24,25000000,18024545,5.9
 9969,Deck the Halls,Comedy-Family,10.903,2006/11/22,51000000,47231070,5.5
 177047,Decoding Annie Parker,Drama,6.248,2014/5/2,2000000,60048,6.2
-2639,Deconstructing Harry,Comedy-Drama,8.697,1997/12/12,20000000,10686841,706
 430474,Deep,Animation-Family-Adventure,12.076,2017/5/18,6000000,10972300,6
 8914,Deep Blue Sea,Action-Horror-Science Fiction,22.587,1999/7/28,60000000,164648142,5.9
 8656,Deep Impact,Action-Drama-Science Fiction,27.926,1998/5/8,75000000,349464664,6.2
@@ -1728,6 +1715,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 17501,Don,Action-Drama-Thriller,8.316,2006/10/20,5000000,15000000,7.1
 41109,Don 2,Action-Thriller,7.619,2011/12/23,11000000,2900000,7
 1909,Don Juan DeMarco,Romance-Drama-Comedy,17.276,1994/10/12,25000000,68792531,6.7
+14704,Donkey X,Family-Adventure-Animation,9.706,2007/12/5,18000000,7365250,5.4
+9366,Donnie Brasco,Crime-Drama-Thriller,16.808,1997/2/27,35000000,124909762,7.5
+141,Donnie Darko,Fantasy-Drama-Mystery,27.892,2001/10/24,6000000,7500000,7.8
 10607,Don't Be a Menace to South Central While Drinking Your Juice in the Hood,Comedy,59.662,1996/1/12,3800000,20109115,6.9
 46261,Don't Be Afraid of the Dark,Fantasy-Horror-Thriller,17.607,2010/11/6,25000000,36993168,5.7
 526433,Don't Be Embarassed,Comedy-Drama,0.693,2018/10/8,10000,10000,5.7
@@ -1739,9 +1729,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 551237,Don't Show Mother,Drama-Thriller,0.749,2010/11/7,4000,1000,9.5
 592336,Don't Stop Me Now,Comedy,6.76,2019/4/18,8000000,5000000,6.4
 15413,Don't Tell Mom the Babysitter's Dead,Comedy-Family,9.778,1991/6/7,10000000,25196249,6.1
-14704,Donkey X,Family-Adventure-Animation,9.706,2007/12/5,18000000,7365250,5.4
-9366,Donnie Brasco,Crime-Drama-Thriller,16.808,1997/2/27,35000000,124909762,7.5
-141,Donnie Darko,Fantasy-Drama-Mystery,27.892,2001/10/24,6000000,7500000,7.8
 24432,Doogal,Comedy-Family-Animation-Fantasy-Adventure,5.917,2006/2/24,20000000,27450189,5.3
 8814,Doom,Action-Horror-Science Fiction,17.019,2005/10/20,60000000,58072119,5.1
 13460,Doomsday,Action-Thriller-Science Fiction,16.398,2008/3/14,30000000,22472631,5.9
@@ -1810,6 +1797,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 492656,Drought and Lies,Drama,0.6,2016/9/28,1000000,2000000,0
 25166,Drowning Mona,Comedy-Crime-Mystery,9.664,2000/3/3,6000000,15427192,5.6
 13497,Drumline,Drama-Romance-Comedy-Music,20.783,2002/12/13,20000000,57588485,6.9
+10375,D-Tox,Thriller,12.54,2002/1/4,55000000,6632383,5.6
 262733,Dubrovsky,Drama,2.002,2014/3/6,2500000,1677946,5.2
 8859,"Dude, Where's My Car?",Comedy-Science Fiction,14.901,2000/12/15,13000000,73180723,5.5
 41733,Due Date,Comedy-Drama,40.054,2010/11/4,65000000,211780824,6.3
@@ -1821,6 +1809,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 100042,Dumb and Dumber To,Comedy,54.905,2014/11/12,40000000,169837010,5.5
 10152,Dumb and Dumberer: When Harry Met Lloyd,Comedy,16.976,2003/4/14,19000000,39267515,4.1
 329996,Dumbo,Family-Fantasy-Adventure,30.739,2019/3/27,170000000,215832199,6.7
+266455,D'Unbelievables D'Mother,Comedy,0.6,2001/2/11,20000,50000,8.7
+266451,D'Unbelievables D'Telly,Action-Adventure-Comedy-Drama-Music,1.555,1998/1/1,20000,50000,9.7
+429771,D'Unbelievables One Hell of a Do,Adventure-Comedy-Drama-Family-Music-TV Movie,1.501,2011/2/11,20000,50000,9.5
 438631,Dune,Science Fiction-Adventure,296.059,2021/9/15,165000000,400671789,7.9
 11849,Dungeons & Dragons,Drama-Adventure-Fantasy,11.327,2000/12/8,35000000,15185241,4.3
 374720,Dunkirk,War-Action-Drama,31.356,2017/7/19,100000000,527000000,7.5
@@ -1833,8 +1824,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 9079,Dying Young,Drama-Romance,10.476,1991/6/20,18000000,82264675,6.6
 43935,Dylan Dog: Dead of Night,Action-Comedy-Horror-Mystery-Science Fiction-Thriller,9.161,2011/3/16,20000000,4634062,4.7
 525660,Dynasty Warriors,Action-Adventure-Fantasy,178.122,2021/4/27,38504400,3310000,6.4
-229045,DГ¶dsklockan,Drama-Thriller,0.931,1999/9/25,50,60,5.7
-7551,DГ©j? Vu,Action-Thriller-Science Fiction,19.434,2006/11/22,75000000,180557550,6.8
 13027,Eagle Eye,Mystery-Thriller-Action,18.129,2008/9/25,80000000,178800000,6.4
 387592,Early Man,Family-Comedy-Animation-Adventure,18.548,2018/1/26,50000000,53431158,6.2
 10946,Earth,Documentary,8.137,2007/4/22,15000000,109000000,7.6
@@ -1872,13 +1861,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 186747,Ek Thi Daayan,Horror-Romance-Thriller,2.084,2013/4/18,3500000,6500000,5.5
 507505,El Angel,Drama-Crime,12.394,2018/8/9,3000000,10452324,7.4
 402964,El Chiguito,Comedy-History,0.6,2016/6/24,50,1000,0
-710736,El ejГ©rcito de los helechos,Horror-Fantasy,0.932,2012/7/7,50000,30,4
+710736,El ej?穢rcito de los helechos,Horror-Fantasy,0.932,2012/7/7,50000,30,4
 707560,El Filibusterismo,Drama-History-Thriller,0.6,2020/3/16,10,15,7.5
 9367,El Mariachi,Action-Crime-Thriller,14.602,1992/9/4,220000,2040920,6.7
 874286,El Mejor Error de Mi Vida,Drama-Comedy,0.6,2021/4/2,20,10,10
 729595,El Profeta del Desierto,Drama-History,0.6,2018/6/23,4000,4000,10
+948004,Eleg?簫a a un amigo,Drama-Fantasy-Thriller,0.7,2021/11/19,2,12,0
 11671,Elegy,Drama-Romance,6.914,2008/8/8,13000000,14894347,6.3
-948004,ElegГ­a a un amigo,Drama-Fantasy-Thriller,0.7,2021/11/19,2,12,0
 9947,Elektra,Action-Fantasy-Science Fiction,17.58,2005/1/13,43000000,56681566,5
 1807,Elephant,Crime-Drama,19.561,2003/9/20,3000000,10012022,7.1
 10719,Elf,Comedy-Family-Fantasy,12.488,2003/10/9,32000000,173398518,6.6
@@ -1899,7 +1888,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 9794,Employee of the Month,Comedy-Romance,11.086,2006/10/6,12000000,38368909,5.5
 505015,Empowered,Comedy,5.995,2018/3/2,3900000,4200000,5.9
 507187,En kluven stad,Documentary,1.4,1998/1/1,1,1,6
-747882,Encantados do Cri-Гє,Documentary,0.6,2020/2/7,883,883,6
+747882,Encantados do Cri-??,Documentary,0.6,2020/2/7,883,883,6
 568124,Encanto,Animation-Comedy-Family-Fantasy,1245.013,2021/11/24,50000000,253000000,7.7
 4523,Enchanted,Comedy-Family-Fantasy-Romance,58.611,2007/11/20,85000000,340487652,6.8
 9946,End of Days,Action-Fantasy-Horror-Mystery,17.635,1999/11/24,100000000,211989043,6
@@ -1950,7 +1939,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 45096,Eve of Destruction,Science Fiction-Action-Thriller,2.816,1991/1/18,13000000,5451119,4.2
 599242,"EVE Riot, Grrrls!",Action-Drama,0.956,2018/8/11,4356,33221,8
 599241,EVE Special Edition,Action-Drama,1.467,2012/7/14,9987,22455,9
-45153,Eve's Bayou,Drama,7.889,1997/11/7,6000000,14842388,6.4
 8413,Event Horizon,Horror-Science Fiction-Mystery,22.799,1997/8/15,60000000,26673242,6.5
 9454,EverAfter,Drama-Romance-Comedy,16.47,1998/7/31,26000000,65705772,7.3
 253412,Everest,Drama-Adventure-History,45.111,2015/9/10,55000000,203427584,6.8
@@ -1965,6 +1953,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 340,Everything Is Illuminated,Comedy-Drama,9.068,2005/9/16,7000000,2697930,7.3
 45658,Everything Must Go,Comedy-Drama-Romance,7.486,2011/5/13,5000000,2614773,6.1
 417678,"Everything, Everything",Drama-Romance,30.114,2017/5/18,10000000,61621140,7.3
+45153,Eve's Bayou,Drama,7.889,1997/11/7,6000000,14842388,6.4
 175138,Evidence Of A Haunting,Drama-Fantasy-Horror,0.6,2010/9/5,25000,54474,3.6
 109428,Evil Dead,Horror,35.71,2013/4/5,17000000,97542952,6.5
 348797,Evil Intent,Thriller,0.972,2010/12/1,2000,10454,10
@@ -2071,7 +2060,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 565235,Filshah,Animation-Family,0.629,2017/5/1,10000,100000,7
 85889,Filth,Crime-Drama-Comedy,13.541,2013/9/23,5000000,9114264,6.9
 18548,Filth and Wisdom,Comedy,6.234,2008/2/13,3500000,354628,5.8
-955932,Fin de la prГіrroga,Crime-Mystery-Thriller,0.6,2021/6/17,2,120,0
+955932,Fin de la pr??rroga,Crime-Mystery-Thriller,0.6,2021/6/17,2,120,0
 9532,Final Destination,Horror,64.944,2000/3/17,23000000,112880294,6.6
 9358,Final Destination 2,Horror-Mystery,68.143,2003/1/31,26000000,90941129,6.2
 9286,Final Destination 3,Horror-Mystery,60.993,2006/2/9,25000000,118890272,6.1
@@ -2135,8 +2124,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 636322,FOMO: Fear of Missing Out,Drama,1.038,2019/10/10,208000,78254,7.4
 748816,Food Time,Drama-Comedy,0.6,2020/9/26,10,15,0
 116977,Foodfight!,Action-Animation-Comedy-Family,10.053,2012/6/15,65000000,73706,1.8
-8676,Fool's Gold,Romance-Comedy-Adventure,17.048,2008/2/7,70000000,111231041,5.7
 14527,Foolproof,Action,8.806,2003/10/3,8256269,460978,6.1
+8676,Fool's Gold,Romance-Comedy-Adventure,17.048,2008/2/7,70000000,111231041,5.7
 1968,Fools Rush In,Comedy-Drama-Romance,10.738,1997/2/14,20000000,42000000,6.4
 68817,Footloose,Drama-Music-Romance,19.828,2011/10/6,24000000,63543328,6.6
 84200,"For a Good Time, Call...",Comedy-Drama,11.183,2012/8/31,850000,1243961,5.9
@@ -2247,15 +2236,16 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 168259,Furious 7,Action-Thriller-Crime-Adventure,143.46,2015/4/1,190000000,1515047671,7.2
 35169,Furry Vengeance,Family-Comedy-Fantasy,10.665,2010/4/30,35000000,36236710,4.9
 228150,Fury,War-Drama-Action,170.561,2014/10/15,68000000,211817906,7.5
-19585,G-Force,Family-Fantasy-Action-Adventure-Comedy,18.298,2009/7/21,150000000,292817841,5.4
-605964,G?bia,Thriller-Drama,0.6,2019/6/14,105497,2263,0
 4421,G.I. Jane,Action-Drama,22.852,1997/8/19,50000000,48169156,6.4
 72559,G.I. Joe: Retaliation,Science Fiction-Adventure-Action-Thriller,37.512,2013/3/27,130000000,371876278,5.6
 14869,G.I. Joe: The Rise of Cobra,Adventure-Action-Thriller-Science Fiction,99.173,2009/8/3,175000000,302469017,5.8
+794229,G??n Tortusu,Drama-Romance,0.6,2020/6/5,88,8,0
+605964,G?bia,Thriller-Drama,0.6,2019/6/14,105497,2263,0
+793561,G?繞lgenin D???leri,Thriller-Mystery-Science Fiction,0.6,2020/12/8,8,8,0
 337876,Gabbar Is Back,Drama-Action,4.931,2015/5/1,11000000,41000000,7.2
 111836,Gabbar Singh,Action-Comedy,2.058,2012/5/11,7000000,16000000,5.6
 9997,Gabriel,Fantasy-Horror-Action-Science Fiction,11.775,2007/11/15,200000,1395610,6.1
-486559,Gal Costa: EstratosfГ©rica Ao Vivo,Music,0.6,2017/11/10,10000,20000,10
+486559,Gal Costa: Estratosf?穢rica Ao Vivo,Music,0.6,2017/11/10,10000,20000,10
 926,Galaxy Quest,Comedy-Family-Science Fiction-Adventure,10.799,1999/12/23,45000000,90683916,7.1
 915334,Galician Heritage,Documentary-History,0.6,2021/4/22,10,5,10
 445571,Game Night,Mystery-Comedy-Crime,24.203,2018/2/22,37000000,117501013,6.8
@@ -2268,7 +2258,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 117691,Gangs of Wasseypur - Part 1,Action-Thriller-Crime,7.565,2012/6/22,1400000,4100000,7.2
 126400,Gangs of Wasseypur - Part 2,Action-Crime-Thriller,7.744,2012/8/8,1670000,4900000,8
 82682,Gangster Squad,Crime-Drama-Action-Thriller,17.154,2013/1/10,60000000,105200903,6.3
-774456,GarcГ­a y GarcГ­a,Comedy,27.088,2021/8/27,3404274,1163538,5.6
+774456,Garc?簫a y Garc?簫a,Comedy,27.088,2021/8/27,3404274,1163538,5.6
 401,Garden State,Comedy-Drama-Romance,14.161,2004/7/28,2500000,26781723,7.1
 8920,Garfield,Animation-Comedy-Family,87.162,2004/6/10,50000000,200804534,5.6
 289507,Garfield and Friends: Dreams & Schemes,Animation-Comedy-Family-Fantasy,1.512,2007/9/4,10000,50000,0
@@ -2301,6 +2291,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 146227,Getaway,Action-Crime,11.014,2013/8/29,18000000,10501938,5.1
 10655,Gettysburg,Drama-History-War,14.16,1993/10/8,25000000,12700000,6.9
 944354,Gexis,Crime-Comedy-Western,0.6,2021/12/2,135,521,10
+19585,G-Force,Family-Fantasy-Action-Adventure-Comedy,18.298,2009/7/21,150000000,292817841,5.4
 14070,Ghajini,Action-Romance-Thriller,11.781,2008/12/25,9100000,76000000,7
 192097,Ghanchakkar,Comedy-Crime-Thriller,2.355,2013/6/28,4100000,5300000,5.5
 381298,Ghayal Once Again,Action-Crime-Drama,1.952,2016/2/5,6629605,7637304,6.2
@@ -2346,13 +2337,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 696048,Go! Go! Cory Carson: The Chrissy,Animation-Family,3.088,2020/5/1,50000,34,6
 9763,Goal!,Drama,20.973,2005/9/29,10000000,27610873,6.7
 9815,Goal! II: Living the Dream,Drama,14.5,2007/2/9,10000000,7864905,5.9
-249660,God's Not Dead,Drama,36.642,2014/3/21,17000000,29789000,6
-347126,God's Not Dead 2,Drama,34.115,2016/4/1,5000000,23507567,6.1
 416186,Godard Mon Amour,Drama-Romance-Comedy,6.603,2017/6/24,12840746,82264,6.603
 134474,Godfather,Drama-Comedy-Romance,2.672,1991/9/15,18000,700000,7.4
 441182,Godha,Comedy-Drama,1.995,2017/5/19,700000,3200000,7
 16072,Gods and Generals,Drama-History-War,11.061,2003/2/21,56000000,12923936,6.2
 3033,Gods and Monsters,Drama,7.883,1998/1/21,10000000,6451628,7
+249660,God's Not Dead,Drama,36.642,2014/3/21,17000000,29789000,6
+347126,God's Not Dead 2,Drama,34.115,2016/4/1,5000000,23507567,6.1
 205584,Gods of Egypt,Action-Adventure-Fantasy,51.498,2016/2/25,140000000,150680864,5.6
 11058,Godsend,Drama-Horror-Science Fiction-Thriller,23.976,2004/4/30,25000000,30120671,4.9
 124905,Godzilla,Action-Drama-Science Fiction,79.851,2014/5/14,160000000,529076069,6.3
@@ -2464,8 +2455,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 599262,GWF Women's Wrestling Revolution 8: All Eyes On Us,Action-Drama,0.6,2018/5/4,7766,33245,10
 599285,GWF Women's Wrestling Revolution 9: Let The Hunt Begin,Action-Drama,0.6,2018/9/8,4355,46554,9
 599284,GWF. Women Wrestling Revolution 10,Action-Drama,1.004,2018/12/8,8877,45332,9
-793561,GГ¶lgenin DГј?leri,Thriller-Mystery-Science Fiction,0.6,2020/12/8,8,8,0
-794229,GГјn Tortusu,Drama-Romance,0.6,2020/6/5,88,8,0
+608435,H?簣zl?簣 ve T??pl??,Comedy,0.6,2017/5/19,1,25,0
 28178,Hachi: A Dog's Tale,Drama-Family,47.481,2009/6/13,16000000,46749646,8
 413052,Hacker,Crime-Drama-Thriller,23.388,2016/9/15,2000000,11239,6.3
 10428,Hackers,Action-Crime-Thriller-Drama,17.139,1995/9/14,20000000,7563728,6.3
@@ -2556,7 +2546,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 268860,Hawaa Hawaai,Drama-Family,1.038,2014/5/9,1460000,1505000,7.5
 70435,Haywire,Action-Drama-Thriller,28.279,2011/11/1,23000000,33372606,5.7
 9469,He Got Game,Drama,11.659,1998/5/1,25000000,21567853,6.8
-10184,He's Just Not That Into You,Comedy-Romance-Drama,42.534,2009/2/6,40000000,178866158,6.5
 361673,"Head Full of Dreams, Heart Full of Promises",Documentary,0.6,2015/9/25,100,1,10
 855836,Head In The Clouds,Drama-Fantasy,0.6,2021/7/30,100,100,0
 9776,Head of State,Comedy,8.881,2003/3/28,35200000,37788228,5.5
@@ -2572,12 +2561,12 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 949,Heat,Action-Crime-Drama-Thriller,33.531,1995/12/15,60000000,187436818,7.9
 31642,Heaven & Earth,History-War-Action-Drama,8.723,1993/12/24,33000000,5864949,6.7
 236751,Heaven Is for Real,Drama,31.856,2014/4/16,12000000,101332962,6.6
-36915,Heaven's Prisoners,Drama-Mystery-Thriller,8.504,1996/5/17,25000000,5009305,5.1
 1024,Heavenly Creatures,Drama-Fantasy,10.161,1994/9/12,5000000,3049135,7
+36915,Heaven's Prisoners,Drama-Mystery-Thriller,8.504,1996/5/17,25000000,5009305,5.1
 33586,Heavy Petting,Comedy-Romance,4.916,2007/10/20,2800000,272371,4.3
 14819,Heavyweights,Family-Comedy-Drama,11.005,1995/2/17,10000000,17689177,6.2
 336004,Heist,Action,16.003,2015/11/13,8900000,4100000,6.1
-921377,Helal SГјt,Drama,1.344,2013/1/1,100000,100000,0
+921377,Helal S??t,Drama,1.344,2013/1/1,100000,100000,0
 1731,Helen,Drama,4.357,2009/1/16,8000000,34820,6.6
 52923,Hell House,Drama-Horror,1.582,2008/7/25,50000,123000,5.9
 338766,Hell or High Water,Crime-Western-Thriller-Drama,18.7,2016/8/11,12000000,37589296,7.3
@@ -2599,6 +2588,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 79,Hero,Drama-Adventure-Action-History,18.067,2002/7/22,31000000,177394432,7.5
 16450,Hero Wanted,Crime-Action-Thriller,8.376,2008/3/28,6,10,5.5
 271200,Heropanti,Romance-Action,7.77,2014/5/23,4200000,10000000,5.8
+10184,He's Just Not That Into You,Comedy-Romance-Drama,42.534,2009/2/6,40000000,178866158,6.5
 44835,Hesher,Drama,12.318,2010/1/22,7000000,449702,6.8
 119441,"Hetalia: Axis Powers: Paint It, White!",Animation-History-Comedy,3.077,2010/6/5,250000,1950000,7.3
 60579,Hey Ram,History-Drama-Crime,3.65,2000/2/18,3900000,4900000,6.2
@@ -2767,7 +2757,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 10476,Hustle & Flow,Music-Drama,11.733,2005/7/22,8000000,23563727,7.1
 540901,Hustlers,Drama-Comedy-Crime,26.692,2019/9/12,20000000,157600000,6.5
 646484,HX-01,Animation,0.6,2017/4/14,8000,12000,0
-608435,HД±zlД± ve TГјplГј,Comedy,0.6,2017/5/19,1,25,0
 370964,I Am Dragon,Fantasy-Romance,12.606,2015/12/3,18000000,10495305,7.2
 407342,I Am Hooligan,Thriller-Action-Crime-Drama,1.992,2016/9/5,60000,120000,4.3
 6479,I Am Legend,Drama-Science Fiction-Thriller,70.101,2007/12/12,150000000,585410052,7.2
@@ -2808,13 +2797,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 2048,"I, Robot",Action-Science Fiction,34.009,2004/7/15,120000000,347234916,6.9
 389015,"I, Tonya",Drama,18.198,2017/12/8,11000000,53939297,7.5
 11777,I.Q.,Comedy-Drama-Romance,6.389,1994/12/24,25000000,26381221,6
-314449,I'm Not Angry!,Drama,1.376,2014/2/8,10000,100000,7.8
-409502,I'm Not Ashamed,Drama,61.292,2016/10/21,1500000,2000000,7.5
-3902,I'm Not There,Drama-Music,12.082,2007/10/1,20000000,4001121,6.6
-915513,I'm relafucked,Crime-Comedy,0.6,2019/4/19,20,5,9
-144789,I'm So Excited!,Comedy,7.651,2013/3/8,5000000,11724119,5.8
-946261,I'm Still Here,Drama,0.6,2022/1/25,1000,5000,0
-659960,I'm Trying to Impress You,Romance-Comedy,0.967,2016/6/4,2000,20000,0
 425,Ice Age,Animation-Comedy-Family-Adventure,145.121,2002/3/10,59000000,383257136,7.3
 278154,Ice Age: Collision Course,Adventure-Animation-Family-Comedy-Science Fiction,71.802,2016/6/23,105000000,408579038,6.1
 57800,Ice Age: Continental Drift,Animation-Comedy-Adventure-Family,103.646,2012/6/27,95000000,877244782,6.3
@@ -2839,8 +2821,15 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 14248,Igor,Animation-Comedy-Family-Fantasy,64.799,2008/9/19,25000000,30700000,5.9
 8832,Il Divo,Drama,8.176,2008/5/28,7275000,11260366,7.7
 799622,il Finale,Drama,0.6,2020/11/20,20,3,0
-173336,Il nostro matrimonio ГЁ in crisi,Comedy,1.152,2001/12/31,4000000,1500000,5.8
+173336,Il nostro matrimonio ?? in crisi,Comedy,1.152,2001/12/31,4000000,1500000,5.8
 903492,Ilhados 2021,Adventure-Romance,0.657,2021/11/12,573,753,10
+314449,I'm Not Angry!,Drama,1.376,2014/2/8,10000,100000,7.8
+409502,I'm Not Ashamed,Drama,61.292,2016/10/21,1500000,2000000,7.5
+3902,I'm Not There,Drama-Music,12.082,2007/10/1,20000000,4001121,6.6
+915513,I'm relafucked,Crime-Comedy,0.6,2019/4/19,20,5,9
+144789,I'm So Excited!,Comedy,7.651,2013/3/8,5000000,11724119,5.8
+946261,I'm Still Here,Drama,0.6,2022/1/25,1000,5000,0
+659960,I'm Trying to Impress You,Romance-Comedy,0.967,2016/6/4,2000,20000,0
 19724,Imagine That,Comedy-Family,11.16,2009/6/19,55000000,23000000,5.9
 57612,IMAX Dolphins and Whales: Tribes of the Ocean,Documentary,2.422,2008/2/15,6000000,7518876,7
 685180,Imitation,Action-Thriller-Crime-Science Fiction-Mystery-Horror,0.794,2020/3/5,5000,100,7.6
@@ -2870,6 +2859,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 6973,In the Valley of Elah,History-Drama-Thriller-Crime-Mystery,12.582,2007/8/31,23000000,29541790,6.8
 49530,In Time,Action-Thriller-Science Fiction,144.467,2011/10/27,40000000,173930596,6.9
 22314,In Too Deep,Drama-Action-Thriller-Crime,7.497,1999/8/25,7000000,14011454,6.7
+356297,In?穢s y el exterminio de plagas,Horror-Mystery-Adventure,0.6,2013/7/31,100,100,5.3
 57209,Inadequate People,Comedy-Romance-Drama,3.976,2010/12/12,100000,621262,7.3
 241258,Incarnate,Horror-Thriller,14.776,2016/12/1,5000000,6341855,5.4
 46738,Incendies,Drama-War-Mystery,19.904,2010/9/4,6800000,6788659,8.1
@@ -2929,7 +2919,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 514207,Invasion,Science Fiction-Drama-Romance-Action,21.166,2020/1/1,8819200,32104054,6.9
 22954,Invictus,Drama-History,17.078,2009/12/10,60000000,122426792,7.2
 709435,Involuntary Solitude,Drama,0.6,2020/6/6,100,100,1
-356297,InГ©s y el exterminio de plagas,Horror-Mystery-Adventure,0.6,2013/7/31,100,100,5.3
 601508,Ip Boy: The Legend Begins,Action-Comedy,0.6,2019/3/10,20,10,7.5
 14756,Ip Man,Drama-Action-History,13.261,2008/12/12,11715578,22108789,7.7
 37472,Ip Man 2,Action-History-Drama,3.2,2010/4/29,12902809,36000000,7.4
@@ -2962,13 +2951,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 270303,It Follows,Horror-Mystery,142.051,2015/2/4,2000000,14674076,6.6
 81828,It Runs in the Family,Family-Comedy,3.567,1994/9/23,15000000,70936,5.4
 898358,It Was for You Alfredo Torrisi,War-Thriller,0.6,2009/9/1,1000,200,3
+320316,Italiano medio,Comedy,5.727,2015/1/29,1816720,4541800,5.8
+590034,Ithu Kollam,Music,0.6,2017/11/23,1000,1200,10
 37725,It's a Boy Girl Thing,Comedy-Fantasy-Romance,16.164,2006/7/15,15500000,7385434,6.5
 23174,It's Alive,Horror-Science Fiction,5.306,2008/9/10,10000000,15500000,4.1
 12109,It's All Gone Pete Tong,Drama-Comedy-Music,11.606,2004/9/12,2000000,120620,6.8
 22897,It's Complicated,Comedy-Romance,26.631,2009/12/23,85000000,219103655,6.5
 43923,It's Kind of a Funny Story,Comedy-Drama,24.898,2010/10/8,8000000,6491240,7
-320316,Italiano medio,Comedy,5.727,2015/1/29,1816720,4541800,5.8
-590034,Ithu Kollam,Music,0.6,2017/11/23,1000,1200,10
 464458,Ittefaq,Crime-Thriller-Mystery,5.463,2017/11/3,4400000,7900000,7
 10520,Itty Bitty Titty Committee,Comedy,4.035,2007/9/28,1000000,18479,5.5
 606943,Ittymaani: Made In China,Comedy-Drama,2.046,2019/9/6,1300000,4400000,4.5
@@ -3082,7 +3071,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 895937,Jorja Smith - Live at Glastonbury,Music,0.6,2019/6/28,100,100,9
 131940,Josh,Romance-Drama,6.256,2000/6/9,6900000,15000000,5.8
 48706,Josh and S.A.M.,Adventure-Action-Comedy,2.866,1993/11/24,18000000,1528163,5
-486917,Josh Taylor VS. Miguel VГЎzquez,Action,0.6,2017/11/11,10000,100000,0
+486917,Josh Taylor VS. Miguel V??zquez,Action,0.6,2017/11/11,10000,100000,0
 72545,Journey 2: The Mysterious Island,Adventure-Action-Science Fiction,132.187,2012/1/19,79000000,355692760,6.1
 504514,Journey to Tataouine,Documentary,0.6,2017/12/29,19052,19052,0
 88751,Journey to the Center of the Earth,Action-Science Fiction-Adventure-Comedy-Family,37.559,2008/7/10,45000000,101702060,6
@@ -3090,8 +3079,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 435800,Journey to the West: The Demons Strike Back,Adventure-Fantasy-Action,11.18,2017/1/28,63300000,731607,6
 274479,Joy,Drama-Comedy,15.392,2015/12/24,60000000,101134059,6.5
 10866,Joy Ride,Mystery-Thriller-Drama,28.713,2001/10/5,23000000,36642838,6.5
-11838,Ju-on: The Grudge,Horror,20.948,2002/10/18,3500000,3657876,6.7
-9666,Ju-on: The Grudge 2,Horror-Thriller,12.559,2003/8/15,20000000,70700000,6.3
 583406,Judas and the Black Messiah,Drama-History,17.078,2021/2/12,26000000,6416063,7.4
 25147,Jude,Drama-Romance,6.387,1996/2/6,7000000,409144,6.4
 9482,Judge Dredd,Science Fiction,18.808,1995/6/30,90000000,113493481,5.7
@@ -3116,6 +3103,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 6280,Junior,Comedy-Family-Romance,12.867,1994/11/22,60000000,108431355,5.1
 693668,Junkie,Comedy-Romance,0.6,2019/5/21,50,100,0
 7326,Juno,Comedy-Drama-Romance,22.963,2007/12/5,7500000,232372681,7
+11838,Ju-on: The Grudge,Horror,20.948,2002/10/18,3500000,3657876,6.7
+9666,Ju-on: The Grudge 2,Horror-Thriller,12.559,2003/8/15,20000000,70700000,6.3
 329,Jurassic Park,Adventure-Science Fiction,46.24,1993/6/11,63000000,920100000,7.9
 331,Jurassic Park III,Adventure-Action-Thriller-Science Fiction,2.91,2001/7/18,93000000,368780809,6.1
 135397,Jurassic World,Action-Adventure-Science Fiction-Thriller,217.95,2015/6/6,150000000,1671713208,6.7
@@ -3134,10 +3123,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 146381,Justin and the Knights of Valour,Animation-Adventure,9.484,2013/8/9,22000000,19799759,5.9
 54518,Justin Bieber: Never Say Never,Music-Documentary-Family,9.491,2011/2/11,13000000,98441954,5.3
 167762,Juvana,Action-Drama,0.6,2013/1/23,511180,702873,0
-616584,K-12,Music-Horror-Fantasy,10.759,2019/9/5,6000000,359377,10.753
-8665,K-19: The Widowmaker,Drama-History-War-Thriller-Mystery,10.75,2002/7/19,100000000,35168966,6.4
-167,K-PAX,Science Fiction-Drama,15.971,2001/10/22,48000000,50315140,7.2
 587412,K.G.F: Chapter 2,Action-Drama,41.568,2022/4/14,13000000,90410749,8.2
+567224,K?繞lcs?繞nlak??s,Romance-Comedy,0.603,2019/2/14,1645266,757123,6.1
+8665,K-19: The Widowmaker,Drama-History-War-Thriller-Mystery,10.75,2002/7/19,100000000,35168966,6.4
 459008,Kaala,Action-Crime-Drama,3.96,2018/6/7,20000000,22000000,6.5
 577242,Kaamelott: The First Chapter,Adventure-Fantasy-Comedy,8.904,2021/7/21,17516235,19002036,6.9
 84371,Kaaryasthan,Comedy-Drama,1.627,2010/11/5,510000,2700000,5.4
@@ -3229,10 +3217,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 34024,King of the Hill,Drama-History,6.367,1993/8/20,8000000,1214231,6.9
 10804,King Ralph,Comedy,7.889,1991/2/15,23000000,52487045,5.3
 614917,King Richard,Drama-History,97.506,2021/11/18,50000000,30000000,7.9
-27360,King's Ransom,Comedy-Crime,4.78,2005/4/22,15000000,4139856,4.7
 580641,Kingdom Men Rising,Documentary,0.6,2019/4/29,300000,1188936,0
 1495,Kingdom of Heaven,Drama-Action-Adventure-History-War,30.189,2005/5/3,130000000,218122627,6.8
 11543,Kingpin,Comedy,14.796,1996/7/4,27000000,25023434,6.5
+27360,King's Ransom,Comedy-Crime,4.78,2005/4/22,15000000,4139856,4.7
 343668,Kingsman: The Golden Circle,Action-Adventure-Comedy-Science Fiction-Crime,63.024,2017/9/20,104000000,410902662,7
 207703,Kingsman: The Secret Service,Crime-Comedy-Action-Adventure,89.922,2015/1/24,81000000,414351546,7.6
 16367,Kinky Boots,Comedy-Drama-Music,9.91,2005/8/30,10000000,9950133,6.7
@@ -3255,12 +3243,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 7501,Knockaround Guys,Crime-Thriller,14.978,2001/9/7,15000000,12000000,5.9
 4964,Knocked Up,Comedy-Romance-Drama,16.709,2007/6/1,30000000,219076518,6.2
 13811,Knowing,Action-Mystery-Science Fiction-Thriller,188.108,2009/3/19,50000000,155446362,6.1
-53174,KokowГ¤Г¤h,Comedy,9.638,2011/2/3,5650000,43000000,6.3
-630514,Kolej HavasД±,Documentary,0.6,2019/9/6,420,3,8
-50025,KolpaГ§ino,Action-Comedy,2.081,2009/10/29,2000000,3004329,5.4
+53174,Kokow?瞻?瞻h,Comedy,9.638,2011/2/3,5650000,43000000,6.3
+630514,Kolej Havas?簣,Documentary,0.6,2019/9/6,420,3,8
+50025,Kolpa?禮ino,Action-Comedy,2.081,2009/10/29,2000000,3004329,5.4
 784,Kolya,Music-Drama-Comedy,7.383,1996/5/15,1031764,7566841,7.4
 199800,Komaram Puli,Action-Crime,1.043,2010/9/10,4200000,2600000,3.7
 293167,Kong: Skull Island,Action-Adventure-Fantasy,61.146,2017/3/8,185000000,566652812,6.5
+167,K-PAX,Science Fiction-Drama,15.971,2001/10/22,48000000,50315140,7.2
 726319,Kraanthiveera Sangolli Raayanna,Drama-History-War,0.71,2012/11/1,4000000,6500000,3.5
 287903,Krampus,Horror-Comedy-Fantasy,25.127,2015/11/26,15000000,61788393,6.1
 508592,Kropemann,Horror,0.6,2016/11/11,25000,5000,0
@@ -3278,12 +3267,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 383785,Kung Fu Yoga,Comedy-Mystery-Action-Adventure,22.484,2017/1/27,65000000,254212245,5.9
 24613,Kurbaan,Crime-Drama-Romance-Thriller-Action,6.449,2009/11/20,7700000,6600000,4.6
 53876,Kuselan,Drama,2.091,2008/8/1,9900000,1000000,6.3
-567224,KГ¶lcsГ¶nlakГЎs,Romance-Comedy,0.603,2019/2/14,1645266,757123,6.1
 91070,L!fe Happens,Comedy,5.938,2011/6/18,930000,30905,5.5
 2118,L.A. Confidential,Crime-Drama-Mystery-Thriller,18.933,1997/9/19,35000000,126216940,7.8
 18734,L.I.E.,Drama-Crime,5.861,2001/1/20,700000,1667192,6.8
-539228,L'Amour flou,Comedy,5.331,2018/10/10,495343,1399479,6
-72564,L'Anniversaire,Comedy,1.005,2005/9/21,7638914,1144090,4.3
+101,L?穢on: The Professional,Crime-Drama-Action,40.561,1994/9/14,16000000,45284974,8.3
 784837,La banda en la isla de la magia,Adventure-Fantasy-Family-History,0.6,2008/12/19,731000,32000,0
 595975,La Belle ?poque,Comedy-Drama,8.269,2019/11/6,11000000,13935410,7.5
 720214,La Caravana de Gardel,Drama,0.846,2015/10/22,150000,2000,0
@@ -3306,10 +3293,12 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 21175,Lakshya,War-Action-Drama-Romance,7.967,2004/6/18,4500000,4600000,6.6
 456757,Lakshyam,Action-Adventure-Thriller,1.429,2017/5/6,630000,540000,6.7
 951552,Lamia,Horror,0.88,2017/11/6,100,100,5
+539228,L'Amour flou,Comedy,5.331,2018/10/10,495343,1399479,6
 78172,Lan Kwai Fong,Drama,2.453,2011/9/15,577450,1154901,4.3
 517517,Lancaster Skies,Drama-War-Action,5.16,2019/2/27,80000,67522,6.2
 11683,Land of the Dead,Horror-Thriller-Drama,20.008,2005/6/24,15000000,46770602,6.2
 18162,Land of the Lost,Adventure-Comedy-Science Fiction-Family,20.903,2009/6/5,100000000,68688831,5.5
+72564,L'Anniversaire,Comedy,1.005,2005/9/21,7638914,1144090,4.3
 693827,Lansky,Crime-Drama-Thriller,8.558,2021/6/24,183210,53478,6.1
 1995,Lara Croft: Tomb Raider,Adventure-Fantasy-Action-Thriller,20.576,2001/6/11,115000000,274703340,5.9
 1996,Lara Croft: Tomb Raider - The Cradle of Life,Action-Adventure-Fantasy-Thriller,13.922,2003/7/21,95000000,160099222,5.7
@@ -3346,7 +3335,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 4836,Layer Cake,Drama-Thriller-Crime,14.582,2004/9/30,6500000,11850214,7
 861794,Le avventure di Wandamiao,Adventure,0.6,2021/8/28,10,11,0
 773246,Le Bon Rouge,Drama-Comedy,0.6,2020/12/5,69,69,10
-837434,Le thГ© de Tante ApГІlline,Comedy-Family,0.6,2020/5/6,10,500,10
+837434,Le th?穢 de Tante Ap??lline,Comedy-Family,0.6,2020/5/6,10,500,10
 406429,League of Gods,Action-Fantasy,21.958,2016/7/28,38000000,43300000,5.4
 407890,Lean on Pete,Drama-Adventure,11.406,2018/4/6,8000000,2455027,6.9
 25018,Leatherface: The Texas Chainsaw Massacre III,Horror,25.914,1990/1/12,2000000,5765562,5.3
@@ -3376,16 +3365,16 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 52682,Les Aristos,Comedy,3.962,2006/9/20,10107727,6073724,4.6
 905057,Les Baltus Au Cirque,Animation,0.84,1999/8/20,27378,27378,0
 180965,Les Milles,War-Drama,1.249,1995/8/22,7500000,1400000,6.1
-82695,Les MisГ©rables,History-Drama,20.456,2012/12/18,61000000,441809770,7.3
+82695,Les Mis?穢rables,History-Drama,20.456,2012/12/18,61000000,441809770,7.3
 58166,Lessons of a Dream,Drama,5.554,2011/2/24,6700000,1373312,6.9
 41402,Let Me In,Drama-Horror-Mystery,21.581,2010/10/1,20000000,24145613,6.8
 13310,Let the Right One In,Horror-Drama,12.855,2008/1/26,4000000,10785801,7.5
 431017,Let the Sunshine In,Comedy-Drama-Romance,6.758,2017/9/27,2978000,4192590,5.2
 480881,Let There Be Light,Drama,29.289,2017/10/27,3000000,7240000,6.3
-193893,Let's Be Cops,Comedy,71.866,2014/8/13,17000000,136621271,6.4
-9809,Let's Go to Prison,Comedy-Crime,12.306,2006/11/17,4000000,4630045,5.7
 943,Lethal Weapon 3,Adventure-Action-Comedy-Thriller-Crime,22.504,1992/5/15,35000000,321731527,6.7
 944,Lethal Weapon 4,Action-Adventure-Comedy-Crime-Thriller,25.774,1998/7/10,140000000,285444603,6.6
+193893,Let's Be Cops,Comedy,71.866,2014/8/13,17000000,136621271,6.4
+9809,Let's Go to Prison,Comedy-Crime,12.306,2006/11/17,4000000,4630045,5.7
 1251,Letters from Iwo Jima,Action-Drama-War,17.779,2006/12/19,19000000,68673228,7.5
 37056,Letters to Juliet,Comedy-Drama-Romance,29.285,2010/5/13,30000000,82148538,7
 265180,Leviathan,Drama,10.737,2014/9/24,4000000,4396821,7.4
@@ -3460,7 +3449,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 613090,"Live Twice, Love Once",Comedy-Drama,10.772,2019/9/6,1450000,368430,7.5
 9071,Living in Oblivion,Drama-Comedy,9.374,1995/7/21,500000,1148752,7.2
 46889,Living Out Loud,Comedy-Drama-Romance,4.148,1998/10/30,12000000,12902790,6
-697951,LobГЈo ??Decadence Avec Elegance,Documentary,0.6,2011/7/15,7000,1000,0
+697951,Lob??o ??Decadence Avec Elegance,Documentary,0.6,2011/7/15,7000,1000,0
 2324,Local Color,Drama,3.745,2006/9/19,3250000,32788,6.7
 100,"Lock, Stock and Two Smoking Barrels",Comedy-Crime,8.544,1998/8/28,1350000,28356188,8.2
 210479,Locke,Drama-Thriller,11.428,2014/4/10,2000000,4635300,6.9
@@ -3534,14 +3523,14 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 679675,Love on Demand,Documentary,0.6,2019/10/15,25000,75000,0
 15122,Love Stinks,Comedy-Romance,5.885,1999/9/10,4000000,2924635,6.5
 333348,Love the Coopers,Comedy-Family-Drama,12.468,2015/11/12,17000000,42426912,6
+64802,Love! Valour! Compassion!,Drama,2.599,1997/5/16,2000000,2900000,6.5
 60013,"Love, Sex, and Eating the Bones",Comedy-Romance,3.476,2003/9/6,2500000,321000,4.5
 449176,"Love, Simon",Comedy-Drama-Romance,28.545,2018/2/16,17000000,66316289,8.1
 59296,"Love, Wedding, Marriage",Comedy-Romance,9.732,2011/6/3,13000000,51917,5.3
-64802,Love! Valour! Compassion!,Drama,2.599,1997/5/16,2000000,2900000,6.5
-201703,Love's Deadly Triangle: The Texas Cadet Murder,Drama-Crime,1.701,1997/2/20,14000000,161001698,7.6
-51333,Love's Labour's Lost,Comedy-Music-Romance,5.007,2000/3/31,13000000,299792,5.5
 77805,Lovelace,Drama,23.969,2013/8/8,10000000,1585582,6.1
 50035,Lovely & Amazing,Comedy-Drama-Romance,6.58,2001/8/31,250000,4186931,6.2
+201703,Love's Deadly Triangle: The Texas Cadet Murder,Drama-Crime,1.701,1997/2/20,14000000,161001698,7.6
+51333,Love's Labour's Lost,Comedy-Music-Romance,5.007,2000/3/31,13000000,299792,5.5
 62732,Lovey-Dovey 2,Comedy-Fantasy,3.16,2008/12/23,3000000,17850711,4.6
 339419,Loving,Drama-Romance,14.148,2016/11/4,9000000,8996802,6.7
 425336,Loving Pablo,Crime-Drama,18.735,2017/10/12,4667008,17535962,6.3
@@ -3563,7 +3552,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 4588,"Lust, Caution",Action-Drama-Romance-Thriller,19.599,2007/9/27,15000000,67091915,7.2
 5653,Luther,Drama-History,26.582,2003/10/29,30000000,29413900,6.4
 138370,Luv Shuv Tey Chicken Khurana,Comedy,2.206,2012/11/2,460000,1600000,6.3
-101,LГ©on: The Professional,Crime-Drama-Action,40.561,1994/9/14,16000000,45284974,8.3
+528372,M??sl??m,Drama-Music,5.505,2018/10/26,4400000,14701918,7.2
 502416,Ma,Horror-Thriller,19.414,2019/5/29,5000000,51749995,5.8
 391955,Maalik,Action-Drama-Crime-Thriller,1.029,2016/4/8,280000,520000,6.9
 412096,Maanagaram,Thriller-Action,2.308,2017/3/10,779000,1550000,7.4
@@ -3607,7 +3596,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 381691,Maheshinte Prathikaaram,Comedy-Drama,3.121,2016/2/5,594667,2292774,7.7
 7303,Maid in Manhattan,Comedy-Drama-Romance,17.132,2002/12/13,55000000,154906693,6.1
 24604,Main Aurr Mrs Khanna,Drama,2.494,2009/10/16,2200000,3600000,3.9
-682667,Mais Uma Tentativa Frustrada de NГЈo Falar,Comedy-Drama-History,0.6,2018/12/15,5,600,9
+682667,Mais Uma Tentativa Frustrada de N??o Falar,Comedy-Drama-History,0.6,2018/12/15,5,600,9
 502524,Majaz: Ae Gham-e-Dil Kya Karun,Drama-Romance,0.6,2017/1/20,25,2,0
 529106,Major Grom: Plague Doctor,Action-Adventure,125.054,2021/4/1,5000000,4493306,6.8
 11067,Major League II,Comedy,9.892,1994/3/30,25000000,30626182,5.7
@@ -3645,8 +3634,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 49527,Man on a Ledge,Action-Thriller-Crime,28.938,2012/1/13,42000000,46221189,6.4
 9509,Man on Fire,Action-Drama-Thriller,49.788,2004/4/23,70000000,130293714,7.4
 1850,Man on the Moon,Comedy-Drama-History,13.45,1999/12/22,82000000,47434430,7.3
-18882,Man-Thing,Action-Fantasy-Horror,9.503,2005/4/21,5000000,1123136,4.3
-41759,Man's Best Friend,Horror-Science Fiction-Thriller-Comedy,6.246,1993/11/19,6000000,12974636,5.5
 334541,Manchester by the Sea,Drama,15.944,2016/11/18,9000000,78988148,7.5
 192136,Mandela: Long Walk to Freedom,Drama-History,8.659,2013/11/28,35000000,27333835,6.9
 1951,Manderlay,Drama,10.214,2005/5/16,14200000,674918,6.9
@@ -3662,6 +3649,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 34376,Mannequin Two: On the Move,Fantasy-Comedy-Science Fiction-Romance,8.904,1991/5/17,13000000,3752426,5.9
 88224,Manny & Lo,Drama-Comedy,4.791,1996/1/22,500000,431326,5.9
 46404,Manorama Six Feet Under,Thriller-Crime-Mystery-Drama,3.019,2007/9/21,4000000,4500000,6.5
+41759,Man's Best Friend,Horror-Science Fiction-Thriller-Comedy,6.246,1993/11/19,6000000,12974636,5.5
+18882,Man-Thing,Action-Fantasy-Horror,9.503,2005/4/21,5000000,1123136,4.3
 538278,Manticore,Thriller,0.6,2011/2/11,6000000,1756511,1
 65931,Manuelita,Animation-Family-Comedy-Adventure,4.606,1999/7/8,5000000,9100000,6.6
 33870,Mao's Last Dancer,Drama-Romance,8.597,2009/10/1,25000000,23914731,6.7
@@ -3771,8 +3760,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 77,Memento,Mystery-Thriller,23.76,2000/10/11,9000000,39723096,8.2
 1904,Memoirs of a Geisha,Drama-Romance-History,24.374,2005/12/6,85000000,162242962,7.7
 2687,Memoirs of an Invisible Man,Science Fiction-Comedy-Fantasy,6.598,1992/2/28,40000000,14358033,5.9
+515244,Memor??ndum,Documentary-Drama,0.6,2017/9/14,1000,4500,10
 11423,Memories of Murder,Crime-Drama-Thriller,24.085,2003/5/2,2800000,26000000,8.1
-515244,MemorГЎndum,Documentary-Drama,0.6,2017/9/14,1000,4500,10
 10169,Men at Work,Comedy-Crime,8.472,1990/8/24,9000000,16247964,5.6
 607,Men in Black,Action-Adventure-Comedy-Science Fiction,49.457,1997/7/2,90000000,589390539,7.2
 41154,Men in Black 3,Action-Comedy-Science Fiction,85.64,2012/5/23,225000000,624026776,6.5
@@ -3888,10 +3877,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 9297,Monster House,Animation-Comedy-Family-Fantasy,62.809,2006/6/30,75000000,140175006,6.6
 458576,Monster Hunter,Action-Fantasy-Adventure,183.884,2020/12/3,60000000,42145959,6.8
 262841,Monster Trucks,Action-Comedy-Science Fiction,37.46,2016/12/21,125000000,64493915,6.1
-4379,Monster-in-Law,Romance-Comedy,25.303,2005/5/13,43000000,154749918,6.2
 922443,Monster?,Horror-Romance-Drama,0.6,2021/12/10,100,1,0
-1365,Monster's Ball,Drama-Romance,12.622,2001/6/7,4000000,44909486,6.8
+4379,Monster-in-Law,Romance-Comedy,25.303,2005/5/13,43000000,154749918,6.2
 43933,Monsters,Drama-Thriller-Science Fiction,13.008,2010/6/18,500000,5639730,6.2
+1365,Monster's Ball,Drama-Romance,12.622,2001/6/7,4000000,44909486,6.8
 62211,Monsters University,Animation-Family,90.719,2013/6/19,200000000,743559607,7
 15512,Monsters vs Aliens,Animation-Family-Adventure-Science Fiction,40.981,2009/3/19,175000000,381509870,6.2
 585,"Monsters, Inc.",Animation-Comedy-Family,161.34,2001/11/1,115000000,579707738,7.8
@@ -3924,10 +3913,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 32990,Mother of Mine,Drama-War,2.537,2005/9/30,3131855,2851888,6.5
 47277,Mother Teresa of Calcutta,Drama,2.64,2003/10/19,7000000,15000000,6.8
 381283,mother!,Drama-Horror-Mystery,19.32,2017/9/13,30000000,44516999,7
-353069,Mother's Day,Comedy-Drama-Romance,29.683,2016/4/28,25000000,48782670,6
 22805,Motherhood,Comedy-Drama,7.91,2009/1/21,5000000,726936,5
 536476,Motherland,Drama,0.602,2009/2/5,10000,10000,0
 504562,Motherless Brooklyn,Drama-Thriller,16.852,2019/10/31,26000000,18377736,6.7
+353069,Mother's Day,Comedy-Drama-Romance,29.683,2016/4/28,25000000,48782670,6
 703007,Mothman,Drama,0.6,2020/2/17,1,123,9
 824,Moulin Rouge!,Drama-Romance-Music,16.33,2001/5/24,52500000,179213434,7.6
 146671,Mouna Guru,Action-Thriller,1.33,2011/12/16,730000,2010000,7
@@ -4049,7 +4038,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 705151,Mystic,Music-Fantasy,0.6,2020/5/15,8000,500,0
 322,Mystic River,Thriller-Crime-Drama-Mystery,31.526,2003/1/1,25000000,156822020,7.7
 457851,Myths,Comedy,2.192,2017/11/16,665000,902684,3.4
-528372,MГјslГјm,Drama-Music,5.505,2018/10/26,4400000,14701918,7.2
+78299,"N??o Se Preocupe, Nada Vai Dar Certo!",Comedy,1.884,2011/7/22,6000000,628832,5.8
 351072,Na Maloom Afraad,Thriller-Comedy,0.886,2014/10/6,640000,1400000,6.7
 930628,Na Rua,Documentary,0.6,2017/3/11,100,100,0
 83902,Na Tum Jaano Na Hum,Romance-Drama,2.146,2002/5/10,5800000,8000000,4.6
@@ -4108,7 +4097,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 11596,New Nightmare,Horror-Mystery-Fantasy,17.931,1994/10/13,8000000,57000000,6.4
 524435,New Old Story,Comedy,0.6,2018/4/25,100000,100,4
 490358,New Year's Eve,Romance,0.6,2002/11/18,15000,50000,4.3
-608439,New York MasalД±,Romance-Comedy,0.6,2017/5/19,1,500,1
+608439,New York Masal?簣,Romance-Comedy,0.6,2017/5/19,1,500,1
 11025,New York Minute,Comedy,13.05,2004/5/7,30000000,21289826,6.2
 12572,"New York, I Love You",Comedy-Drama-Romance,8.753,2008/9/6,14700000,14603177,5.9
 72766,Newlyweds,Comedy-Romance-Drama,2.264,2011/12/26,9000,5000,5.8
@@ -4164,7 +4153,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 123109,No One Lives,Horror-Thriller,10.822,2013/3/9,2900000,74918,5.8
 3638,No Reservations,Comedy-Romance-Drama,10.713,2007/6/15,28000000,92601050,6.5
 41630,No Strings Attached,Comedy-Romance,80.916,2011/1/21,25000000,149228077,6.3
-370172,No Time to Die,Adventure-Action-Thriller,260.243,2021/9/29,250000000,774153007,4002
 957571,No Title,Drama,0.6,2022/2/8,1,3,0
 439134,No. 17 Soheila,Drama-Family,0.848,2017/2/4,10000,10000,0
 86834,Noah,Drama-Adventure,46.741,2014/3/7,125000000,362637473,5.6
@@ -4199,11 +4187,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 528947,Number 12 Looks Just Like You,Drama-Romance,0.6,2018/6/7,100,10,7
 340975,Nunca asistas a este tipo de fiestas,Horror-Comedy,1.127,2000/5/10,10000,1000,0
 12107,Nutty Professor II: The Klumps,Fantasy-Comedy-Romance-Science Fiction,11.897,2000/7/27,84000000,123307945,5
-78299,"NГЈo Se Preocupe, Nada Vai Dar Certo!",Comedy,1.884,2011/7/22,6000000,628832,5.8
 134,"O Brother, Where Art Thou?",Adventure-Comedy-Crime,23.947,2000/8/30,26000000,71868327,7.3
 891074,O dia do desassossego,Comedy,0.6,2010/7/1,500,20,0
 923456,O Ingresso,Drama,0.6,2022/1/4,10,20,9
-733175,O MГ©todo De Cristo,Family,0.6,2017/11/25,500000,250000,0
+733175,O M?穢todo De Cristo,Family,0.6,2017/11/25,500000,250000,0
 930668,O vazio na janela,Drama,0.6,2015/3/18,100,100,0
 561786,Objects in Mirror,Drama-Family,0.6,2015/8/6,10000,100000,0
 75612,Oblivion,Action-Science Fiction-Adventure-Mystery,31.667,2013/4/10,120000000,286168572,6.6
@@ -4278,6 +4265,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 326215,Ooops! Noah Is Gone...,Animation-Adventure-Comedy-Family,14.625,2015/3/26,6000000,769028,6.3
 360158,Oops! There's Dad,Comedy-Romance-Drama,0.6,2005/7/28,660000,1660000,0
 80281,Oosaravelli,Action,2.187,2011/10/6,3500000,39000000,5.3
+642684,Op?穢ration Portugal,Comedy,6.274,2021/6/23,1400000,3795575,5.3
 15699,Opal Dream,Drama-Family,2.806,2006/7/12,5000000,140666,6.2
 2055,Open Range,Western,12.943,2003/8/29,22000000,68296293,7.2
 7484,Open Season,Animation-Family-Adventure-Comedy,17.486,2006/9/29,85000000,197309027,6.1
@@ -4291,7 +4279,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 460555,Operation Red Sea,Action-Thriller-War-Drama,21.566,2018/2/16,70000000,579220560,7
 428836,Ophelia,Drama-Romance-History,16.205,2019/6/28,12000000,242115,7.3
 404665,Oppam,Thriller,3.047,2016/9/8,1000000,10000000,7
-642684,OpГ©ration Portugal,Comedy,6.274,2021/6/23,1400000,3795575,5.3
 718754,orca,Horror-Thriller,0.6,2020/6/24,10,20,0
 129441,Ordinary,Comedy-Romance,1.811,2012/3/17,453500,3260000,6.4
 40507,Original Gangstas,Action-Drama-Crime-Thriller,3.749,1996/5/10,4800000,3014000,5.5
@@ -4354,13 +4341,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 258913,Paisa,Action-Comedy,0.84,2014/2/7,1,2,6.3
 593693,Palau the Movie,Drama,1.094,2019/4/4,2000000,134696,7.9
 266647,Pan,Fantasy-Adventure-Family,21.195,2015/9/24,150000000,128388320,6
-1417,Pan's Labyrinth,Fantasy-Drama-War,38.121,2006/10/10,19000000,83258226,7.7
 429450,Pandora,Thriller-Drama-Action,24.143,2016/12/7,13938145,30169000,7.5
 19898,Pandorum,Action-Horror-Mystery-Science Fiction-Thriller,30.736,2009/9/8,33000000,20648328,6.5
 272731,Pane e burlesque,Comedy,3.017,2014/5/29,2000000,319180,5.4
 938477,Panghrun,Drama-Romance,0.6,2022/2/4,661839,132367,0
 20637,Panic,Crime-Drama,7.255,2000/12/1,1000000,779137,6.4
 4547,Panic Room,Crime-Drama-Thriller,16.915,2002/3/29,48000000,197079546,6.7
+1417,Pan's Labyrinth,Fantasy-Drama-War,38.121,2006/10/10,19000000,83258226,7.7
 15644,Paparazzi,Action-Drama-Thriller,8.242,2004/9/3,20000000,16605763,5.5
 25183,Paper Heart,Comedy-Drama-Romance,6.843,2009/8/7,1000000,1296971,5.9
 286565,Paper Towns,Mystery-Drama-Romance,18.278,2015/6/18,12000000,85512300,6.1
@@ -4445,13 +4432,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 870326,Pesadelo de Vaskan - Parte 1,Thriller-Drama,0.6,2018/6/8,100,200,10
 157433,Pet Sematary,Horror-Thriller,26.831,2019/4/4,21000000,112399944,5.7
 10906,Pet Sematary II,Horror,19.82,1992/8/28,8000000,17092453,5.3
-294272,Pete's Dragon,Adventure-Family-Fantasy,23.183,2016/8/10,65000000,143695338,6.4
 34128,Peter and Vandy,Drama-Comedy-Romance,2.122,2009/1/1,500000,11276,6.2
 225519,Peter Gabriel - Live In Athens 1987,Music,0.801,2013/9/13,100000,1000000,7.9
 96844,"Peter Gabriel: New Blood, Live In London",Music,1.383,2011/10/24,100000,1000000,6.3
 10601,Peter Pan,Adventure-Fantasy-Family,24.029,2003/12/18,100000000,121975011,7.2
 381719,Peter Rabbit,Animation-Adventure-Family,23.053,2018/2/7,50000000,351266433,6.7
 522478,Peter Rabbit 2: The Runaway,Family-Comedy-Adventure-Animation-Fantasy,131.887,2021/3/25,45000000,153000000,7.3
+294272,Pete's Dragon,Adventure-Family-Fantasy,23.183,2016/8/10,65000000,143695338,6.4
 749004,Petite Maman,Drama-Fantasy-Family,13.871,2021/6/2,3100000,1024575,7.1
 744289,PGS - Intuition is your Personal Guidance System,Documentary,0.6,2017/10/11,1250000,35423,0
 152259,Phantom,Thriller,23.392,2013/1/3,10000000,1034589,5.9
@@ -4513,11 +4500,11 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 257088,Point Break,Action,35.132,2015/12/3,105000000,133718711,5.9
 47620,Poison,Drama-Horror-Science Fiction,8.006,1991/4/5,250000,609524,6.3
 9264,Poison Ivy,Thriller-Drama,20.863,1992/5/8,3000000,1829804,5.3
+10991,Pok?穢mon 3: The Movie - Spell of the Unown,Adventure-Fantasy-Animation-Action-Family,26.743,2000/7/8,16000000,68411275,6.4
+447404,Pok?穢mon Detective Pikachu,Action-Adventure-Fantasy,145.318,2019/5/3,150000000,433005346,7
+10228,Pok?穢mon: The First Movie - Mewtwo Strikes Back,Animation-Family-Adventure-Fantasy-Action,28.233,1998/7/18,30000000,163644662,6.9
+12599,Pok?穢mon: The Movie 2000,Adventure-Fantasy-Animation-Science Fiction-Family,32.162,1999/7/17,30000000,163649270,6.6
 141289,Pokkiri Raja,Action,1.006,2010/5/7,1260000,4700000,5.3
-10991,PokГ©mon 3: The Movie - Spell of the Unown,Adventure-Fantasy-Animation-Action-Family,26.743,2000/7/8,16000000,68411275,6.4
-447404,PokГ©mon Detective Pikachu,Action-Adventure-Fantasy,145.318,2019/5/3,150000000,433005346,7
-10228,PokГ©mon: The First Movie - Mewtwo Strikes Back,Animation-Family-Adventure-Fantasy-Action,28.233,1998/7/18,30000000,163644662,6.9
-12599,PokГ©mon: The Movie 2000,Adventure-Fantasy-Animation-Science Fiction-Family,32.162,1999/7/17,30000000,163649270,6.6
 11546,Police Academy: Mission to Moscow,Comedy-Crime,13.296,1994/6/9,10000000,126247,4.5
 11134,Police Story 3: Super Cop,Action-Crime-Thriller,21.852,1992/7/4,900000,20483423,6.7
 32511,"Police, Adjective",Drama-Comedy-Crime,4.466,2010/1/14,1089360,48298,6.4
@@ -4534,8 +4521,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 211343,Pop,Comedy-Animation,0.6,1996/7/31,3001,3001,4.5
 341012,Popstar: Never Stop Never Stopping,Comedy-Music,9.672,2016/6/3,20000000,9496130,6.6
 442,Popular Music,Comedy-Drama,3.226,2004/10/1,2224000,28000000,6.3
-717033,Por quГ© no me tocГі ser Michael Keaton?,Comedy-Drama,0.6,2008/3/28,1,500,10
-857770,"Portrait de Rosa, ? la franГ§aise",Drama,0.6,2022/1/14,300,3000,0
+717033,Por qu?穢 no me toc?? ser Michael Keaton?,Comedy-Drama,0.6,2008/3/28,1,500,10
+857770,"Portrait de Rosa, ? la fran?禮aise",Drama,0.6,2022/1/14,300,3000,0
 531428,Portrait of a Lady on Fire,Drama-Romance,19.294,2019/6/17,5740000,9923127,8.2
 503,Poseidon,Adventure-Action-Drama-Thriller,20.142,2006/5/10,160000000,181674817,5.8
 30072,Possession,Drama-Mystery-Romance,11.097,2002/10/2,25000000,10113733,6
@@ -4660,6 +4647,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 382597,R.A.I.D. Special Unit,Action-Comedy,9.774,2017/2/1,32400000,34598750,5.8
 49524,R.I.P.D.,Fantasy-Action-Comedy-Crime,38.184,2013/7/18,130000000,61648500,5.8
 590033,r/askreddit,Horror-Thriller-Action,0.6,2019/3/10,1,1,0
+682354,R??mulo y Julita,Comedy-Romance,1.057,2020/2/27,200,40,5.7
 191121,Raanjhanaa,Drama-Romance,6.249,2013/6/21,6400000,1171761,6.7
 37460,Raavan,Action-Adventure-Crime-Drama-Romance-Thriller,2.253,2010/6/18,4200000,4000000,4.6
 54456,Raavanan,Action-Adventure-Crime,4.848,2010/6/18,5200000,9700000,6.8
@@ -4805,6 +4793,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 4148,Revolutionary Road,Drama-Romance,19.141,2008/12/19,35000000,75981180,7
 10851,Revolver,Drama-Thriller-Crime-Mystery,13.433,2005/9/11,27000000,6700000,6.4
 559926,Rhino Horn,Drama-Crime-Thriller,0.6,2018/1/31,10000,100000,10
+11011,Ri??hie Ri??h,Comedy-Family,24.29,1994/12/19,40000000,38087756,5.9
 292011,Richard Jewell,Drama-History-Crime,15.091,2019/12/13,45000000,33904605,7.5
 275601,Ricki and the Flash,Comedy-Drama-Music,14.701,2015/7/10,18000000,41325328,5.8
 87421,Riddick,Science Fiction-Action-Thriller,55.866,2013/9/2,38000000,98337295,6.3
@@ -4834,7 +4823,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 335778,Risen,Drama-History,34.326,2016/2/18,20000000,46069568,6.1
 7007,Rising Sun,Action-Drama-Thriller,13.927,1993/7/30,40000000,107198790,6.1
 141520,Rita's Last Fairy Tale,Drama-Fantasy-Mystery,2.659,2012/10/18,200000,486937,7.3
-11011,RiВўhie RiВўh,Comedy-Family,24.29,1994/12/19,40000000,38087756,5.9
 338942,Road to Berlin,Drama-War,5.19,2015/5/7,3800000,488569,6.8
 42707,Road to Nowhere,Mystery-Thriller-Romance,3.096,2010/9/11,5000000,27046,5.8
 4147,Road to Perdition,Crime-Drama-Thriller,16.861,2002/7/12,80000000,181001478,7.4
@@ -4931,11 +4919,12 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 97365,Rust and Bone,Drama-Romance,12.31,2012/5/17,15400000,25762027,7.2
 9530,RV,Family-Comedy,20.408,2006/4/28,50000000,87528173,5.9
 159479,"Ryaba, My Chicken",Comedy,1.031,1994/5/1,2700000,4635143,4.6
-682354,RГіmulo y Julita,Comedy-Romance,1.057,2020/2/27,200,40,5.7
 17532,S. Darko,Thriller-Crime-Science Fiction-Mystery,16.239,2009/4/28,4000000,4100000,4.3
-412872,S.W.A.G. - Episode 2: The Texas Blues,Comedy,0.6,2016/8/25,42,1,8
 424475,S.W.A.G. - Episode 2.5: The Baby Eater,Comedy,0.6,2016/10/28,25,1,0
+412872,S.W.A.G. - Episode 2: The Texas Blues,Comedy,0.6,2016/8/25,42,1,8
 9257,S.W.A.T.,Action-Thriller-Crime,26.598,2003/8/8,80000000,116643346,6.1
+960606,S?? Mais um Dia,Action,0.6,2019/9/27,3000,10000,10
+701062,"S?簫, Mi Amor",Comedy-Family-Romance,11.418,2020/1/23,5000,5000,6.9
 9296,S1m0ne,Science Fiction-Comedy-Drama,9.601,2002/8/23,10000000,19576023,5.9
 454292,Saaho,Action-Thriller,7.08,2019/8/29,51000000,55000000,6.2
 20656,Saathiya,Romance-Drama,5.421,2002/12/20,3000000,12000000,5.9
@@ -5143,17 +5132,17 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 263109,Shaun the Sheep Movie,Family-Animation-Comedy-Adventure,15.261,2015/2/5,25000000,106209378,7
 287947,Shazam!,Action-Comedy-Fantasy,90.119,2019/3/29,80000000,365971656,7.1
 20912,She Hate Me,Comedy-Drama,8.354,2004/7/30,8000000,1465134,5.1
-10314,She's All That,Comedy-Romance,21.281,1999/1/29,10000000,103166989,6.3
-670470,She's Mine,Drama-Horror-Romance,0.711,2018/1/1,60000,580000,10
-34016,She's Out of My League,Comedy-Romance,38.979,2010/3/11,20000000,49779728,6.4
-9655,She's the Man,Comedy-Drama-Romance,24.234,2006/3/17,20000000,33889159,6.8
-11363,She's the One,Romance-Comedy,9.223,1996/8/26,3500000,9538948,5.5
 17483,Shelter,Drama-Romance,13.216,2007/6/16,500000,142666,7.8
 199324,Sherina's Adventure,Adventure-Drama-Music-Family,0.762,2000/6/13,250000,1200000,8
 370567,Sherlock Gnomes,Animation-Family-Fantasy-Comedy-Adventure-Mystery,13.376,2018/3/15,59000000,90497778,5.6
 10528,Sherlock Holmes,Action-Adventure-Crime-Mystery,32.594,2009/1/1,90000000,524028679,7.2
 58574,Sherlock Holmes: A Game of Shadows,Adventure-Action-Crime-Mystery,45.025,2011/11/22,125000000,334615000,7.1
 13075,Sherrybaby,Drama,10.204,2006/9/8,2000000,622806,6.3
+10314,She's All That,Comedy-Romance,21.281,1999/1/29,10000000,103166989,6.3
+670470,She's Mine,Drama-Horror-Romance,0.711,2018/1/1,60000,580000,10
+34016,She's Out of My League,Comedy-Romance,38.979,2010/3/11,20000000,49779728,6.4
+9655,She's the Man,Comedy-Drama-Romance,24.234,2006/3/17,20000000,33889159,6.8
+11363,She's the One,Romance-Comedy,9.223,1996/8/26,3500000,9538948,5.5
 555951,Sheyda,Drama-War-Romance,0.6,1999/10/23,10000,100000,0
 114564,Shikshanachya Aaicha Gho,Comedy,1.295,2010/1/15,380000,520000,7.5
 315011,Shin Godzilla,Action-Science Fiction-Horror,19.498,2016/7/29,15000000,77947607,7.1
@@ -5215,7 +5204,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 497835,Sin,History-Drama,4.273,2019/11/14,15000000,1047676,6
 187,Sin City,Thriller-Action-Crime,26.378,2005/4/1,40000000,158733820,7.4
 189,Sin City: A Dame to Kill For,Crime-Action-Thriller,41.051,2014/8/20,65000000,39407616,6.4
-223182,Sin CondГіn,Comedy,0.875,2013/8/29,10,9,7
+223182,Sin Cond??n,Comedy,0.875,2013/8/29,10,9,7
 888323,Sin Tu Permiso: Nosotras en la escena Hardcore y Punk Estatal,Documentary-Music,0.6,2020/10/23,2329,6266,10
 14411,Sinbad: Legend of the Seven Seas,Family-Animation-Adventure-Comedy-Fantasy-Action,37.516,2003/7/2,60000000,80767884,6.9
 335797,Sing,Animation-Comedy-Family-Music,106.869,2016/11/23,75000000,634151679,7.1
@@ -5522,7 +5511,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 16723,Sugar & Spice,Crime-Comedy-Drama,10.927,2001/1/24,11000000,13276953,6.4
 39349,Sugar Hill,Drama-Action-Thriller,7.124,1994/2/25,10000000,18225518,5.8
 297761,Suicide Squad,Action-Adventure-Fantasy,76.858,2016/8/3,175000000,746846894,5.9
-271674,Suite FranГ§aise,Drama-Romance-War,11.893,2015/3/12,15000000,9104716,7.3
+271674,Suite Fran?禮aise,Drama-Romance-War,11.893,2015/3/12,15000000,9104716,7.3
 13637,Sukiyaki Western Django,Adventure-Action-Comedy-Western-Thriller,7.77,2007/9/15,3800000,2725258,6.3
 363676,Sully,Drama-History,28.89,2016/9/7,60000000,240797623,7.2
 376812,Sultan,Drama-Action,8.39,2016/7/6,10400000,102000000,7
@@ -5544,7 +5533,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 316200,Supari,Action-Crime-Drama,0.841,2003/6/20,578861,361618,0
 45132,Super,Comedy-Action-Drama,13.841,2010/11/26,2500000,324138,6.6
 37686,Super 8,Thriller-Science Fiction-Mystery,61.732,2011/6/8,50000000,260095986,6.7
-859016,Super headphones | ??????ЧЄ ЧЄ?ЧЄ ??????ЧЄ,Animation-Family,0.6,2021/7/4,150000,178000,10
+859016,Super headphones | ??????虴? 虴??虴? ??????虴?,Animation-Family,0.6,2021/7/4,150000,178000,10
 9607,Super Mario Bros.,Adventure-Comedy-Family-Science Fiction,18.005,1993/5/28,48000000,20915465,4.2
 9372,Super Size Me,Documentary,7.931,2004/1/17,65000,28575078,6.7
 39939,Super Troopers,Comedy-Crime-Mystery,13.817,2001/1/18,1200000,18492362,6.6
@@ -5556,8 +5545,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 457915,Superlopez,Comedy,8.194,2018/11/23,5200000,12496155,5.3
 1452,Superman Returns,Science Fiction-Action-Adventure,28.704,2006/6/28,270000000,391081192,5.7
 10384,Supernova,Science Fiction-Horror-Fantasy-Thriller,13.023,2000/1/14,90000000,14828081,5
-9408,Surf's Up,Animation-Comedy-Family,24.045,2007/6/8,85000000,149044513,6.3
 13827,"Surfer, Dude",Comedy,8.233,2008/9/5,6000000,69497,4.6
+9408,Surf's Up,Animation-Comedy-Family,24.045,2007/6/8,85000000,149044513,6.3
 19959,Surrogates,Science Fiction-Action-Thriller,14.785,2009/9/24,80000000,122444772,6.1
 965904,Surroundings,Thriller-Drama,0.6,2017/11/21,500,501,0
 10900,Surveillance,Horror-Thriller-Mystery,7.198,2008/2/8,3500000,1115493,5.9
@@ -5590,10 +5579,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 4689,Sympathy for Mr. Vengeance,Action-Drama-Thriller,12.674,2002/3/29,4000000,1954937,7.5
 501590,Synonyms,Drama,5.095,2019/2/28,2500000,242483,5.8
 231,Syriana,Drama-Thriller,10.201,2005/11/23,50000000,93974620,6.4
-701062,"SГ­, Mi Amor",Comedy-Family-Romance,11.418,2020/1/23,5000,5000,6.9
-960606,SГі Mais um Dia,Action,0.6,2019/9/27,3000,10000,10
-505954,T-34,War-Action-Drama-History,13.918,2018/12/27,8000000,36220872,7.1
+773302,T??rkiye Sinemas?簣,Family-Documentary,0.6,2020/12/1,1000,1000,0
 180863,T2 Trainspotting,Crime-Drama,15.359,2017/1/27,18000000,42067430,6.9
+505954,T-34,War-Action-Drama-History,13.918,2018/12/27,8000000,36220872,7.1
 353569,Table 19,Comedy-Drama,10.278,2017/3/3,5000000,5042014,6
 949460,TacoTown: The Movie,Thriller-Comedy,2.201,2022/5/21,7,1,0
 121734,"Tad, the Lost Explorer",Animation-Comedy-Adventure-Family,37.46,2012/8/10,10500000,23000000,6
@@ -5619,7 +5607,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 25066,Tales from the Hood,Horror-Crime-Thriller,16.335,1995/5/24,6000000,12000000,6.1
 9718,Talladega Nights: The Ballad of Ricky Bobby,Comedy,15.167,2006/8/4,72500000,162966177,6.3
 10263,Tamara,Fantasy-Horror-Thriller,8.441,2005/5/12,4750000,206871,5.3
-895250,Tame Impala - Radio 1?™s Big Weekend,Music,0.6,2016/5/31,100,100,9
+895250,Tame Impala - Radio 1??┬ Big Weekend,Music,0.6,2016/5/31,100,100,9
 895259,Tame Impala Live at Saturday Night,Music,0.6,2019/3/31,100,100,10
 226486,Tammy,Comedy,22.148,2014/7/2,20000000,100525432,5.3
 308084,Tangerine,Comedy-Drama,7.817,2015/7/10,100000,924793,7
@@ -5711,7 +5699,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 710091,The 8:37 News,Comedy-Drama,0.6,2019/1/23,22000,25000,10
 710098,The 8:50 News: Exclusive Interview,Comedy-Drama,0.6,2019/10/1,6248,5219,9
 615137,The 9th Precinct,Fantasy-Thriller-Crime,3.853,2019/8/29,1413543,1862261,6.4
-34544,The A-Team,Thriller-Action-Adventure-Comedy-Crime,65.683,2010/6/9,110000000,177238796,6.4
 930087,The Abandoned School,Horror-Thriller,0.6,2014/5/18,5,10,10
 11847,The Accidental Spy,Action-Comedy-Thriller,7.946,2001/1/18,25697387,790144,6
 302946,The Accountant,Crime-Thriller-Drama,30.843,2016/10/13,44000000,155160045,7
@@ -5762,6 +5749,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 11112,The Associate,Comedy,9.834,1996/10/25,23000000,12800000,6.4
 5172,The Astronaut Farmer,Science Fiction-Adventure-Comedy-Drama,8.732,2006/10/15,13000000,11130889,6.2
 2900,The Astronaut's Wife,Drama-Science Fiction-Thriller,16.347,1999/8/26,75000000,19598588,5.6
+34544,The A-Team,Thriller-Action-Adventure-Comedy-Crime,65.683,2010/6/9,110000000,177238796,6.4
 691819,The Attachment,Drama-Horror,0.6,2019/7/16,50,100,9
 171879,The Attacks Of 26/11,Action-Crime-History-Thriller,4.197,2013/3/1,3300000,18000000,7.1
 303543,The Australian Pink Floyd Show  - Live At The Royal Albert Hall,Music,0.666,2007/5/4,10000,100000,8.5
@@ -6050,7 +6038,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 772923,The Explosion of Silence,Drama,0.863,2020/3/14,2000,2000,0
 14325,The Express,Drama,11.646,2008/10/10,40000000,9793496,7.2
 47088,The Extra Man,Comedy,7.272,2010/8/1,7000000,453079,5.9
-35552,The Extraordinary Adventures of AdГЁle Blanc-Sec,Fantasy-Adventure-Action-Mystery,12.306,2010/4/9,25000000,34100000,6.1
+35552,The Extraordinary Adventures of Ad??le Blanc-Sec,Fantasy-Adventure-Action-Mystery,12.306,2010/4/9,25000000,34100000,6.1
 10389,The Eye,Horror,9.704,2002/5/9,10706075,1766761,6.5
 214086,The Face of Love,Drama-Romance,10.118,2013/10/25,4000000,350006,6.2
 9276,The Faculty,Horror-Science Fiction,20,1998/12/25,15000000,40283321,6.5
@@ -6155,7 +6143,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 13501,The Good Night,Comedy-Drama-Romance-Fantasy-Music,8.85,2007/1/25,15000000,508084,5.4
 1247,The Good Shepherd,Drama-Thriller-History,13.654,2006/12/11,85000000,100266865,6.4
 9272,The Good Son,Thriller,15.413,1993/9/24,17000000,60613008,6.7
-30973,The Gospel of John,Drama-History,6.706,2003/9/11,10000000,4078741,81
 573150,The Goya Murders,Drama-Thriller,4.945,2019/10/18,2700000,443038,5
 54897,The Grace Card,Drama,12.546,2011/2/25,200000,2295733,7.2
 120467,The Grand Budapest Hotel,Comedy-Drama,23.88,2014/2/26,30000000,174600318,8.1
@@ -6339,10 +6326,10 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 47288,The King and I,Animation-Drama-Family,5.986,1999/3/19,25000000,12000000,5.5
 44947,The King Is Dancing,Drama-History-Music,3.029,2000/12/6,21000000,320300000,6.5
 44571,The King of Fighters,Action-Thriller-Science Fiction,95.959,2010/8/26,12000000,2000371,5.1
+4349,The Kingdom,Thriller-Action-Drama,16.884,2007/8/22,70000000,86658558,6.7
 396616,The King's Choice,Action-Drama-War,7.485,2016/9/29,7500000,9100000,6.8
 476669,The King's Man,Action-Adventure-Thriller-War-Mystery,609.034,2021/12/22,100000000,125928656,6.9
 45269,The King's Speech,Drama-History,19.937,2010/11/26,15000000,414211549,7.7
-4349,The Kingdom,Thriller-Action-Drama,16.884,2007/8/22,70000000,86658558,6.7
 7979,The Kite Runner,Drama,10.811,2007/12/14,20000000,73276047,7.3
 216682,The Kung Fu Scholar,Comedy-Action,2.111,1994/1/13,5000000,5000000,5.9
 16888,The Ladies Man,Comedy,6.949,2000/10/13,24000000,13700000,5.3
@@ -6509,7 +6496,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 246871,The Mountain,War-Action-Thriller,4.467,2012/11/16,95000,1671445,6.8
 290512,The Mountain Between Us,Romance-Adventure-Drama,23.899,2017/10/5,35000000,62832209,6.6
 427008,The Mountain II,War-Drama,7.84,2016/11/4,670000,11378898,7.5
-26899,The Mudge Boy,Drama-Romance,19.683,2003/1/17,800000,62852,76
 504172,The Mule,Crime-Drama-Thriller,29.823,2018/12/14,50000000,174804407,6.8
 282035,The Mummy,Fantasy-Thriller-Action-Adventure-Horror,32.461,2017/6/6,125000000,409231607,5.5
 1734,The Mummy Returns,Adventure-Action-Fantasy,61.733,2001/5/4,98000000,443280904,6.3
@@ -6519,7 +6505,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 56401,The Music Never Stopped,Drama,6.11,2011/3/18,4000000,253899,7.4
 11370,The Musketeer,Adventure,7.842,2001/9/7,40000000,27053815,5.3
 98502,The Myth of Fingerprints,Drama-Comedy-Romance,2.312,1997/9/17,2000000,458815,4.6
-37137,The Naked Gun 2ВЅ: The Smell of Fear,Comedy-Crime,17.099,1991/6/28,23000000,86930411,6.8
+37137,The Naked Gun 2??: The Smell of Fear,Comedy-Crime,17.099,1991/6/28,23000000,86930411,6.8
 16727,The Namesake,Drama,8.255,2006/9/2,12000000,20354321,6.7
 12435,The Nanny Diaries,Comedy-Drama-Romance,13.222,2007/8/24,20000000,47817020,6.3
 9631,The Negotiator,Action-Crime-Drama-Thriller,18.298,1998/7/29,50000000,44547681,7.1
@@ -6574,9 +6560,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 193610,The Other Woman,Comedy-Romance,33.718,2014/4/16,40000000,196781193,6.4
 1933,The Others,Horror-Drama-Mystery-Thriller,27.005,2001/8/2,17000000,209947037,7.6
 433356,The Ottoman Lieutenant,Romance-Drama-War,11.386,2017/3/10,40000000,413844,6.2
-8970,The Out-of-Towners,Comedy,6.08,1999/4/2,75000000,29000000,5.6
 131677,The Outlander,Drama,2.672,2005/4/22,7000000,2866324,5.2
 479718,The Outlaws,Crime-Action,54.78,2017/10/3,5883687,52946454,7.8
+8970,The Out-of-Towners,Comedy,6.08,1999/4/2,75000000,29000000,5.6
 531876,The Outpost,War-Drama-History-Action,17.185,2020/6/24,18000000,2133452,6.9
 10022,The Pacifier,Comedy-Family,24.664,2005/3/4,56000000,198636868,6.1
 15139,The Pagemaster,Family-Fantasy-Science Fiction-Animation,14.573,1994/11/23,27000000,13670688,6.4
@@ -6616,8 +6602,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 1791,The Piano Teacher,Drama-Romance,16.41,2001/9/5,3000000,9801375,7.3
 12096,The Pink Panther,Comedy-Family-Mystery-Crime-Adventure-Action,17.158,2006/2/10,65000000,158851357,5.8
 285213,The Pirates,Action-History-Adventure-Drama-Fantasy,9.94,2014/8/6,13000000,64400000,7.1
-591120,The Pirates: The Last Royal Treasure,Action-Adventure-Comedy-History,186.282,2022/1/26,19597380,10247262,6.7
 72197,The Pirates! In an Adventure with Scientists!,Animation-Adventure-Family-Comedy,9.663,2012/3/12,60000000,123054041,6.4
+591120,The Pirates: The Last Royal Treasure,Action-Adventure-Comedy-History,186.282,2022/1/26,19597380,10247262,6.7
 97367,The Place Beyond the Pines,Drama-Crime,14.354,2013/3/14,15000000,35485608,6.9
 838099,The Plague,Action-Crime,0.6,2019/6/13,5,1,7
 10403,The Player,Comedy-Mystery-Drama-Crime,10.09,1992/4/3,8000000,21706101,7.2
@@ -6696,7 +6682,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 16780,The Return of the Texas Chainsaw Massacre,Horror,27.352,1995/3/12,600000,185898,4.2
 281957,The Revenant,Western-Drama-Adventure,44.949,2015/12/25,135000000,532950503,7.5
 16178,The Riddle,Thriller-Mystery-Drama-Crime,2.367,2007/10/14,5000000,37948,4.8
-565,The Ring,Horror-Mystery,42.929,2002/10/18,48000000,249348933,42.867
 10320,The Ring Two,Drama-Horror-Thriller,41.537,2005/3/17,50000000,161451538,5.7
 580581,The Rise of Kibwetere,Thriller,0.6,2019/3/25,25000,2000,0
 945687,The Rise of Warwind Star Wars Fan Film,Science Fiction-Action,1.177,2022/2/26,1000,1500,10
@@ -7054,7 +7039,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 597,Titanic,Drama-Romance,127.413,1997/11/18,200000000,2187463944,7.9
 61672,Titeuf,Animation-Comedy-Drama-Romance,4.399,2011/4/6,15000000,13970489,5.7
 450047,Tiyaan,Drama,1.001,2017/7/7,2400000,2000000,5.7
-925736,TIбєѕNG Gб»ЊI N?I HOANG D?,Action-Family,0.6,2020/2/5,1000,2000,9
+925736,TI訇??NG G訇罈?I N?I HOANG D?,Action-Family,0.6,2020/2/5,1000,2000,9
 592955,TJP Brand New Wrestling 2 Now It's Time To Attack,Action-Drama,0.6,2018/8/25,8873,14552,8.5
 592772,TJP Tokyo Joshi Pro '19,Action-Drama,0.6,2019/1/4,5666,13322,5
 1273,TMNT,Adventure-Animation-Comedy-Family,17.956,2007/3/23,34000000,95608995,6.1
@@ -7200,12 +7185,11 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 2642,Two Weeks Notice,Comedy-Romance,15.432,2002/12/19,60000000,199043242,6.3
 957092,Two Wrongs,Action,0.6,2020/1/10,1,1,0
 436288,Tyler Perry's Madea on the Run - The Play,Comedy-Drama,6.192,2017/1/31,1000000,15000000,7.4
-773302,TГјrkiye SinemasД±,Family-Documentary,0.6,2020/12/1,1000,1000,0
 579023,U Get What U Kiss,Comedy,0.799,2018/10/26,11000,100000,7.3
 10155,U Turn,Thriller,14.019,1997/10/3,19000000,6682098,6.6
-3536,U-571,War-Drama-Action-Thriller,11.936,2000/4/20,62000000,127666415,6.4
 11808,U.S. Marshals,Thriller-Crime-Action,21.908,1998/3/6,60000000,102367405,6.5
 37003,U2 3D,Music-Documentary,3.432,2007/5/19,15000000,22730842,7.1
+3536,U-571,War-Drama-Action-Thriller,11.936,2000/4/20,62000000,127666415,6.4
 45316,Udaan,Drama,7.754,2010/6/17,800000,520000,7.2
 398535,Udta Punjab,Action-Crime-Drama,6.491,2016/6/17,5980000,14900000,7.2
 191726,Ugly,Thriller-Drama-Mystery-Crime,4.734,2013/5/17,700000,2200000,7
@@ -7213,9 +7197,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 385152,Ugramm,Action-Drama-Thriller,1.558,2014/2/21,564155,4231162,6.9
 9920,Ultraviolet,Science Fiction-Action-Thriller,16.95,2006/3/3,30000000,31070211,5.2
 379284,Um Suburbano Sortudo,Comedy,4.848,2016/2/11,6000000,11600000,5.9
-923170,Uma Aventura MГ­stica,Adventure,0.6,2021/7/7,367,662,10
+923170,Uma Aventura M?簫stica,Adventure,0.6,2021/7/7,367,662,10
 916844,Un Azteca En El Azteca Parte 1,Documentary,5.369,2016/9/9,10000,500000,10
-482821,Una Fabula Muy Trillada: The Legacy Of Dermis TatГє,Music-Documentary,0.6,2017/10/21,5000,10000,8
+482821,Una Fabula Muy Trillada: The Legacy Of Dermis Tat??,Music-Documentary,0.6,2017/10/21,5000,10000,8
 822318,Una Storia D'Amore,Romance-Drama-Animation,0.6,2021/4/30,200,100,0
 758223,unbeatin,Thriller-Crime-Action,0.6,2019/6/29,2000,3238,0
 538831,Unbound,Action-Crime-Drama-Thriller,1.586,2018/6/15,80000,21000000,4
@@ -7243,7 +7227,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 12437,Underworld: Rise of the Lycans,Fantasy-Action-Thriller,36.253,2009/1/22,35000000,92158961,6.5
 17926,Undiscovered,Comedy-Romance,3.286,2005/8/26,9000000,1046166,4.5
 15070,Undisputed,Action-Adventure-Drama-Thriller,58.127,2002/7/17,20000000,14946150,6.5
-766240,UnerhГ¶rt!,Documentary,0.6,2020/10/29,20000,20000,6
+766240,Unerh?繞rt!,Documentary,0.6,2020/10/29,20000,20000,6
 2251,Unfaithful,Thriller-Drama,34.36,2002/5/10,50000000,119137784,6.6
 239573,Unfinished Business,Comedy,13.693,2015/3/5,35000000,14431253,5.4
 418437,Unforgettable,Drama-Thriller,32.36,2017/3/6,12000000,17768012,5.8
@@ -7320,9 +7304,9 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 97342,Vedam,Drama-Action,3.276,2010/6/4,3000000,9000000,7.1
 202769,Vedozero,Documentary,0.6,2010/9/16,150000,10000,0
 468073,Veer Savarkar,History,0.6,2001/11/16,100,150,9.5
-4251,Veer-Zaara,Drama-Romance,10.074,2004/11/12,7000000,29385320,7.4
 247504,Veeram,Action-Comedy,2.908,2014/1/10,5900000,19000000,5.3
 483189,Veere Di Wedding,Drama-Comedy,2.75,2018/6/1,6800000,19700000,5
+4251,Veer-Zaara,Drama-Romance,10.074,2004/11/12,7000000,29385320,7.4
 11419,Vegas Vacation,Comedy,12.195,1997/2/13,25000000,36400360,6.1
 386119,VeggieTales: Christmas Spectacular!,Family-Animation-Music-TV Movie,0.6,1998/12/19,9988,9988,0
 261409,VeggieTales: Josh and the Big Wall,Family-Animation,1.845,1997/9/1,4078230,4078230,5.5
@@ -7390,8 +7374,8 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 11358,Walking Tall,Adventure-Drama-Action-Thriller,24.88,2004/4/2,56000000,57223890,6.3
 77951,Walking with Dinosaurs,Animation-Family-Adventure,55.528,2013/12/18,80000000,126546518,6
 33909,Wall Street: Money Never Sleeps,Drama-Crime,11.297,2010/9/2,70000000,134748021,6.1
+10681,WALL?繚E,Animation-Family-Science Fiction,65.234,2008/6/22,180000000,521311860,8.1
 533,Wallace & Gromit: The Curse of the Were-Rabbit,Adventure-Animation-Comedy-Family,22.616,2005/9/4,30000000,192610372,7
-10681,WALLВ·E,Animation-Family-Science Fiction,65.234,2008/6/22,180000000,521311860,8.1
 931774,Waltz of Qualm,Adventure,0.6,2021/2/27,50,98,0
 8885,Waltz with Bashir,Drama-Animation-War-Documentary,7.92,2008/6/12,1500000,11179372,7.7
 207743,Wanderlei Silva fighting for PRIDE,Action,0.6,2006/7/18,100,7000,0
@@ -7428,7 +7412,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 71859,We Need to Talk About Kevin,Drama-Thriller,19.67,2011/9/28,7000000,10765283,7.6
 2001,We Own the Night,Drama-Crime-Thriller,11.897,2007/10/9,21000000,54926886,6.7
 10590,We Were Soldiers,Action-History-War,19.681,2002/3/1,75000000,114660784,7.1
-138832,We're the Millers,Comedy-Crime,38.951,2013/8/7,37000000,269994119,6.8
 9522,Wedding Crashers,Comedy-Romance,17.669,2005/7/13,40000000,285176741,6.5
 79120,Weekend,Drama-Romance,9.487,2011/9/22,120000,484592,7.3
 8494,Weekend at Bernie's II,Comedy,7.899,1993/7/9,7000000,12741891,5
@@ -7443,6 +7426,7 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 93828,Welcome to the Punch,Action-Adventure-Crime,9.667,2013/3/15,8500000,3926386,5.9
 8265,Welcome to the Sticks,Comedy-Drama-Romance,12.836,2008/2/20,11000000,245144417,6.7
 8942,Wendy and Lucy,Drama,9.338,2008/12/10,200000,1192655,6.7
+138832,We're the Millers,Comedy-Crime,38.951,2013/8/7,37000000,269994119,6.8
 800497,Werewolves Within,Horror-Comedy,79.78,2021/6/25,6500000,250811,6.2
 63943,West Is West,Comedy,3.053,2010/10/19,3837625,3867000,6.6
 511809,West Side Story,Drama-Romance-Crime,180.75,2021/12/8,100000000,74530532,7.2
@@ -7465,13 +7449,13 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 76494,What to Expect When You're Expecting,Romance-Comedy-Drama,17.644,2012/5/17,40000000,79700000,6
 246741,What We Do in the Shadows,Comedy-Horror,15.201,2014/6/19,1600000,6263224,7.6
 3981,What Women Want,Comedy-Romance,27.634,2000/12/15,70000000,374111707,6.4
+523267,Whatever God Wants,Comedy,0.6,2010/5/9,10000,20000,0
+16222,Whatever It Takes,Drama-Comedy-Romance,13.043,2000/3/31,15000000,9902115,5.9
+19265,Whatever Works,Comedy-Romance,10.804,2009/6/19,15000000,36020534,7.1
 1587,What's Eating Gilbert Grape,Romance-Drama,59.762,1993/12/17,11000000,10032765,7.7
 15765,What's Love Got to Do with It,Drama,6.662,1993/6/9,15000000,39100956,7.1
 14034,What's the Worst That Could Happen?,Action-Comedy-Crime,8.89,2001/5/31,60000000,38400000,5.4
 63492,What's Your Number?,Comedy-Romance,13.203,2011/9/30,20000000,30426096,6.5
-523267,Whatever God Wants,Comedy,0.6,2010/5/9,10000,20000,0
-16222,Whatever It Takes,Drama-Comedy-Romance,13.043,2000/3/31,15000000,9902115,5.9
-19265,Whatever Works,Comedy-Romance,10.804,2009/6/19,15000000,36020534,7.1
 10053,When a Stranger Calls,Horror,18.05,2006/2/3,15000000,66966987,5.7
 13477,When in Rome,Comedy-Fantasy-Romance,13.007,2010/1/29,55000000,43042835,6
 335791,When the Bough Breaks,Mystery-Drama-Horror,14.071,2016/9/9,10000000,30658387,5.8
@@ -7545,12 +7529,12 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 231576,Wish I Was Here,Drama-Comedy,9.35,2014/7/18,5500000,5483299,6.5
 440597,Wish Upon,Horror-Thriller-Fantasy,22.325,2017/7/7,12000000,14301505,5.6
 10351,Wishmaster,Horror-Fantasy,14.421,1997/9/19,5000000,15738769,5.9
-717195,Wit's End,Comedy-Drama,0.676,2020/6/19,100,100,0
 338944,With Left Hand Only,Comedy-Fantasy-Romance,0.694,2015/5/7,2400000,3346518,4.9
 10762,Without a Paddle,Comedy-Action-Adventure-Thriller,10.281,2004/8/20,19000000,69631118,5.5
 22256,Without Limits,Drama-Romance,4.802,1998/9/11,25000000,777423,6.7
 516516,Without Me,Thriller-Drama-Romance,3.31,2018/10/18,1504710,1671700,7.2
 723889,Witness to a Rape,Documentary,1.017,2020/7/10,100000,100000,2
+717195,Wit's End,Comedy-Drama,0.676,2020/6/19,100,100,0
 10395,Wolf,Fantasy-Drama-Horror,9.922,1994/6/17,70000000,131002597,6.1
 9885,Wolf Creek,Horror-Thriller,10.602,2005/9/16,1000000,27762648,6.2
 199534,Wolf Creek 2,Horror-Thriller,9.772,2013/8/30,8000000,9630444,6.3
@@ -7612,19 +7596,19 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 599290,WWR Tournament For Tomorrow 2018,Drama-Action,0.6,2018/12/30,4432,55647,8
 587361,WWR Widowmaker,Drama-Drama,0.703,2019/2/23,11430,6000,10
 12160,Wyatt Earp,Western-Drama-Action-Adventure,14.602,1994/6/24,63000000,25052000,6.7
+26446,Xchange,Science Fiction,3.828,2001/1/19,100000,5000000,5.5
 36657,X-Men,Adventure-Action-Science Fiction,2.458,2000/7/13,75000000,296339527,7
 2080,X-Men Origins: Wolverine,Adventure-Action-Thriller-Science Fiction,10.881,2009/4/28,150000000,373062864,6.3
 246655,X-Men: Apocalypse,Action-Adventure-Science Fiction-Fantasy,97.166,2016/5/18,178000000,543934787,6.5
 127585,X-Men: Days of Future Past,Action-Adventure-Fantasy-Science Fiction,86.403,2014/5/15,250000000,747862775,7.5
 967614,X-Men: Days of Future Past - Rogue Cut,Adventure-Action-Fantasy-Science Fiction,5.379,2015/7/14,220000000,746000000,9
 49538,X-Men: First Class,Action-Science Fiction-Adventure,3.487,2011/6/1,160000000,353624124,7.3
-26446,Xchange,Science Fiction,3.828,2001/1/19,100000,5000000,5.5
 7451,xXx,Action-Adventure-Thriller,37.539,2002/8/9,70000000,277448382,5.9
 47971,xXx: Return of Xander Cage,Action-Adventure-Crime,66.903,2017/1/13,85000000,346147658,5.9
 11679,xXx: State of the Union,Action-Adventure-Crime-Mystery-Thriller,32.304,2005/4/27,60000000,71073932,5
-1391,Y Tu MamГЎ TambiГ©n,Drama-Romance,23.129,2001/6/8,5000000,33616692,7.4
+1391,Y Tu Mam?? Tambi?穢n,Drama-Romance,23.129,2001/6/8,5000000,33616692,7.4
 252053,Yaariyan,Drama-Romance,1.925,2014/1/10,10,100,3.4
-30691,Yah?i BatД±,Comedy-Western-Adventure,5.475,2009/12/31,2000000,13565059,6.7
+30691,Yah?i Bat?簣,Comedy-Western-Adventure,5.475,2009/12/31,2000000,13565059,6.7
 715567,Yajamana,Drama-Family,0.6,2000/12/1,200000,8000000,0
 6935,Yamakasi,Action-Crime-Drama,8.086,2001/4/4,15000000,1297401,6
 31922,Year of the Gun,Action-Thriller-Romance,3.262,1991/9/10,15000000,1182273,4.8
@@ -7636,7 +7620,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 348133,Yes & Yes,Drama,1.562,2014/6/26,600000,25574,4.1
 79982,Yes Boss,Comedy-Drama-Romance,4.467,1997/7/18,2700000,12000000,6.2
 10201,Yes Man,Comedy-Romance,60.223,2008/12/9,70000000,223241637,6.6
-515195,Yesterday,Music-Comedy-Romance-Fantasy,17.974,2019/6/27,26000000,88092097,3118
 702591,Yo Dividido,Thriller-Drama,0.6,2016/4/20,2112,2112,4
 41515,Yogi Bear,Comedy-Family-Animation-Adventure,18.552,2010/12/17,80000000,203509374,5.6
 14669,Yonkers Joe,Drama,2.555,2008/4/1,5000000,8286,4.8
@@ -7646,8 +7629,6 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 8141,You Kill Me,Comedy-Crime-Thriller-Romance,7.833,2007/2/9,4000000,3748295,6.2
 653261,You Know What's Funny?,Comedy-Drama-Romance,0.6,2019/8/25,1,1,0
 1819,"You, Me and Dupree",Comedy-Romance,10.545,2006/7/13,54000000,130431368,5.6
-653241,You're in Trouble,Comedy,0.6,2019/8/18,1,1,0
-9489,You've Got Mail,Comedy-Romance,16.735,1998/2/26,65000000,250821495,6.6
 184314,Young & Beautiful,Drama,32.897,2013/8/21,4645437,9757417,6.4
 237,Young Adam,Drama-Thriller-Crime-Romance,10.395,2003/9/26,6400000,2500000,5.9
 57157,Young Adult,Comedy-Drama,21.989,2011/11/11,12000000,22939027,5.7
@@ -7657,10 +7638,12 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 38319,Your Highness,Comedy-Fantasy,14.064,2011/4/8,49900000,28013733,5.3
 773862,Your Parents Will Come Back,Documentary,0.6,2015/4/4,293000,20698,0
 84355,Your Sister's Sister,Comedy,6.143,2011/9/11,125000,3242802,6.5
+653241,You're in Trouble,Comedy,0.6,2019/8/18,1,1,0
 13499,"Yours, Mine & Ours",Comedy-Family-Romance,17.621,2005/11/23,45000000,72028752,6.1
 310593,Youth,Comedy-Drama,11.363,2015/5/20,13360000,2000000,6.9
 7797,Youth Without Youth,Fantasy-Drama-Mystery,8.018,2007/10/26,5000000,244397,6.2
 724530,YouTube Live,Music-Comedy,2.055,2008/11/22,2,2,5.5
+9489,You've Got Mail,Comedy-Romance,16.735,1998/2/26,65000000,250821495,6.6
 11052,Yu-Gi-Oh! The Movie,Adventure-Fantasy-Animation-Action-Comedy-Thriller-Science Fiction-Family,23.702,2004/8/13,20000000,29170410,6
 43410,Yuva,Action-Crime,5.889,2004/5/22,4600000,6700000,6.4
 245775,Yves Saint Laurent,Drama,7.839,2014/1/8,12000000,21026290,6.6
@@ -7693,5 +7676,3 @@ id,title,genres,popularity,release_date,budget,revenue,vote_average
 505927,Zor,Action-Drama-Thriller,0.928,1998/2/13,20000,30000,0
 41393,Zyzzyx Road,Thriller-Drama,3.676,2006/2/25,2000000,30,5.1
 30048,ZZ Top: Live from Texas,Music,3.013,2008/6/24,100000,1000000,7.2
-335031,ВЎAsu Mare! 2,Comedy,8.803,2015/4/9,800,10,6.4
-703348,Ш№???,Drama,0.6,2018/12/11,15,10,10
