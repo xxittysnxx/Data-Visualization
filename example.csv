@@ -1,4 +1,4 @@
-"id","title","genres","popularity","release_date","budget,revenue","vote_average"
+id,title,genres,popularity,release_date,budget,revenue,vote_average
 373449,2,Action-Science Fiction-Thriller-Fantasy,8.382,2018/11/29,77000000,114629169,6.1
 12244,9,Action-Adventure-Animation-Science Fiction-Thriller,47.004,2009/8/19,30000000,48428063,6.9
 20714,12,Crime-Drama-Mystery,7.104,2007/6/6,4000000,7537453,7.3
